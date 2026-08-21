@@ -2314,6 +2314,24 @@ button {
         grid-template-columns: 1fr;
     }
 
+    .filters-bar {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.75rem;
+        overflow-x: visible;
+        flex-wrap: wrap;
+    }
+
+    .filter-wrapper {
+        min-width: 0;
+    }
+
+    .glass-select {
+        padding: 0.65rem 1.75rem 0.65rem 0.75rem;
+        font-size: 0.85rem;
+        background-position: right 0.5rem top 50%;
+    }
+
     .glass-panel {
         padding: 1.5rem;
     }
@@ -2338,10 +2356,32 @@ button {
 
     .scholarship-card {
         padding: 1.25rem;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
     }
 
     .card-title {
         font-size: 1.1rem;
+        white-space: normal;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    .card-description {
+        font-size: 0.9rem;
+        white-space: normal;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    .card-provider, .metric, .card-type, .card-education, .card-category {
+        font-size: 0.85rem;
+    }
+
+    .card-metrics-grid {
+        gap: 0.5rem;
+        padding: 0.75rem;
     }
 
     .details-header {
