@@ -2267,6 +2267,10 @@ button {
         font-size: 14.5px;
     }
 
+    .container {
+        padding: 0 1rem;
+    }
+
     .glass-nav {
         top: 0.5rem;
         border-radius: var(--radius-md);
@@ -2333,7 +2337,12 @@ button {
     }
 
     .glass-panel {
-        padding: 1.5rem;
+        padding: 1.25rem;
+    }
+
+    .results-controls {
+        padding: 1.25rem;
+        margin-bottom: 2rem;
     }
 
     .details-content {
@@ -2458,6 +2467,18 @@ button {
 @media (max-width: 480px) {
     html {
         font-size: 13.5px;
+    }
+
+    .container {
+        padding: 0 0.75rem;
+    }
+
+    .results-controls {
+        padding: 1rem;
+    }
+
+    .filters-bar {
+        gap: 0.5rem;
     }
 
     .founder-glass-panel {
