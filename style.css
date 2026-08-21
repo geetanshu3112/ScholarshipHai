@@ -1580,6 +1580,8 @@ button {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    min-width: 0;
+    max-width: 100%;
 }
 
 /* Filter Controls - Glass Inputs */
@@ -1625,10 +1627,12 @@ button {
     gap: 1rem;
     overflow-x: auto;
     padding-bottom: 0.5rem;
+    width: 100%;
+    scrollbar-width: none; /* Firefox */
 }
 
 .filters-bar::-webkit-scrollbar {
-    height: 6px;
+    display: none; /* Chrome/Safari */
 }
 
 .filters-bar::-webkit-scrollbar-thumb {
@@ -2364,6 +2368,15 @@ button {
     .stat-divider {
         display: none;
     }
+
+    /* Fix hero pills overflowing and squishing on mobile */
+    .live-hero-pill {
+        display: none !important;
+    }
+
+    .hero-announcement-wrapper {
+        justify-content: center;
+    }
 }
 
 @media (max-width: 480px) {
@@ -2437,6 +2450,11 @@ button {
 }
 
 /* Custom styling for Live Pills around Announcement */
+#detail-live-status .card-status-badge {
+    position: static !important;
+    transform: none !important;
+}
+
 .hero-announcement-wrapper {
     display: flex;
     align-items: center;
