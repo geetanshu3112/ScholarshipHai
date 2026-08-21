@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ScholarshipHai — Find Scholarships & Opportunities</title>
+    <meta name="description"
+        content="Discover scholarships for school and college students across India. Explore eligibility, deadlines, documents, tips and official application links.">
+    <meta name="theme-color" content="#f0f4ff"> <!-- Updated theme color closer to reference -->
+    <link rel="icon" type="image/png" href="assets/logo.png">
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:title" content="ScholarshipHai — Find Scholarships & Opportunities">
+    <meta property="og:description" content="Discover scholarships for school and college students across India.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://placeholder-url.com">
+    <meta property="og:image" content="https://placeholder-url.com/og-image.jpg">
+
+    <link rel="canonical" href="https://placeholder-url.com">
+
+    <!-- External CSS & JS Links -->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body class="liquid-theme">
+
+    <!-- Cinematic Splash Screen -->
+    <div class="splash-screen" id="splash-screen">
+        <div class="cinema-bg">
+            <div class="cinema-flare"></div>
+            <div class="cinema-rays"></div>
+        </div>
+        <div class="splash-content">
+            <div class="cinema-logo-box">
+                <img src="assets/logo.png" alt="ScholarshipHai Logo" class="cinema-logo-img">
+            </div>
+            <div class="cinema-brand-wrap">
+                <span class="cinema-brand-main">Scholarship</span><span class="cinema-brand-hai">Hai</span>
+            </div>
+            <div class="cinema-sweep-line"></div>
+        </div>
+    </div>
+
+    <!-- Global Liquid Background System (CSS will handle gradients/orbs) -->
+    <div class="liquid-background" aria-hidden="true">
+        <div class="liquid-orb liquid-orb-1"></div>
+        <div class="liquid-orb liquid-orb-2"></div>
+        <div class="liquid-orb liquid-orb-3"></div>
+        <div class="liquid-orb liquid-orb-4"></div>
+    </div>
+
+    <!-- Premium Glass Header -->
+    <header class="glass-nav">
+        <div class="container nav-container">
+            <div class="brand-group">
+                <!-- SVG Icon mimicking the reference logo style -->
+                <svg class="brand-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 4L4 8L12 12L20 8L12 4Z" fill="url(#brandGrad1)" />
+                    <path d="M4 12V16C4 16 8 20 12 20C16 20 20 16 20 16V12L12 16L4 12Z" fill="url(#brandGrad2)" />
+                    <defs>
+                        <linearGradient id="brandGrad1" x1="4" y1="4" x2="20" y2="12" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#4F46E5" />
+                            <stop offset="1" stop-color="#8B5CF6" />
+                        </linearGradient>
+                        <linearGradient id="brandGrad2" x1="4" y1="12" x2="20" y2="20" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#8B5CF6" stop-opacity="0.8" />
+                            <stop offset="1" stop-color="#06B6D4" stop-opacity="0.8" />
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <span class="brand-sogo">Scholarship<span class="brand-hai">Hai</span><span
+                        class="brand-badge">Plus</span></span>
+            </div>
+
+            <nav class="nav-links">
+                <!-- Using existing script.js navigation IDs where possible, mapping them to UI -->
+                <button id="nav-home-btn" class="nav-link active">Home</button>
+                <button id="nav-categories-btn" class="nav-link">Categories</button>
+                <button id="nav-about-btn" class="nav-link">About Us</button>
+                <button id="nav-report-btn" class="nav-link"
+                    onclick="window.location.href='mailto:funsuk716@gmail.com'">Report</button>
+            </nav>
+
+            <div class="nav-right">
+                <!-- Solopreneur Section in Header -->
+                <div class="nav-founder"
+                    onclick="document.getElementById('solopreneur-section').scrollIntoView({behavior: 'smooth'})"
+                    style="cursor: pointer;" title="Meet Our Solopreneur">
+                    <img src="assets/profile.png" alt="Geetanshu Rathore" class="nav-founder-photo">
+                    <div class="nav-founder-info">
+                        <span class="nav-founder-label">SOLOPRENEUR</span>
+                        <span class="nav-founder-name">GEETANSHU RATHORE</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Single Page Application Container -->
+    <main id="app-container">
+
+        <!-- ==========================================
+             PAGE 1 — LANDING VIEW (REDESIGNED based on reference)
+             ========================================== -->
+        <section id="landing-view" class="view-section active">
+
+            <div class="container hero-container">
+
+                <!-- Announcement Pill Wrapper -->
+                <div class="hero-announcement-wrapper">
+                    <!-- Left Live Scholarship -->
+                    <div class="live-hero-pill glass-pill">
+                        <div class="hero-pill-status">
+                            <span class="status-dot"></span> Live
+                        </div>
+                        <div class="hero-live-text-container">
+                            <span id="hero-live-left" class="hero-live-text">Loading...</span>
+                        </div>
+                    </div>
+
+                    <!-- Announcement Pill -->
+                    <div class="hero-announcement glass-pill">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round" class="sparkle-icon">
+                            <path
+                                d="M12 2v4m0 12v4M4 12H2m18 0h2m-2.828-7.172l-2.829 2.828m-8.485 8.485l-2.828 2.829m14.142 0l-2.829-2.829m-8.485-8.485l-2.828-2.828" />
+                        </svg>
+                        Scholarship discovery, simplified
+                    </div>
+
+                    <!-- Right Live Scholarship -->
+                    <div class="live-hero-pill glass-pill">
+                        <div class="hero-pill-status">
+                            <span class="status-dot"></span> Live
+                        </div>
+                        <div class="hero-live-text-container">
+                            <span id="hero-live-right" class="hero-live-text">Loading...</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Main Headline -->
+                <h1 class="hero-headline">
+                    The Right Scholarship,<br>
+                    <span class="gradient-text">One Search Away.</span>
+                </h1>
+
+                <!-- Supporting Description -->
+                <p class="hero-description">
+                    Discover scholarships, check eligibility, compare opportunities,<br>
+                    and apply through official portals — all in one place.
+                </p>
+
+                <!-- Glass Search Interface (Reusing existing ID if script.js allows, else purely visual to funnel to results) -->
+                <!-- The prompt indicates search works on results page, so this acts as a gateway or uses the existing ID if it binds globally -->
+                <div class="hero-search-bar glass-input-group">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <!-- Using existing search ID to bind it if global, otherwise it's just visual -->
+                    <input type="text" id="hero-search"
+                        placeholder="Enter scholarship name, exam (e.g., JoSAA), or city"
+                        aria-label="Search scholarships">
+                    <!-- The existing script.js relies on start-button for navigation from landing -->
+                </div>
+
+                <!-- Primary CTA -->
+                <button id="start-button" class="hero-cta glass-button-primary">
+                    Explore Scholarships &rarr;
+                </button>
+
+                <!-- Quick Category Section (Glass Cards) -->
+                <div class="quick-categories">
+                    <div class="category-card glass-card-small">
+                        <div class="cat-icon-wrapper bg-blue">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+                                <path d="M6 12v5c3 3 9 3 12 0v-5" />
+                            </svg>
+                        </div>
+                        <div class="cat-info">
+                            <span class="cat-title">UG</span>
+                            <span class="cat-subtitle">Scholarships</span>
+                        </div>
+                        <svg class="cat-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </div>
+
+                    <div class="category-card glass-card-small">
+                        <div class="cat-icon-wrapper bg-purple">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                            </svg>
+                        </div>
+                        <div class="cat-info">
+                            <span class="cat-title">PG</span>
+                            <span class="cat-subtitle">Scholarships</span>
+                        </div>
+                        <svg class="cat-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </div>
+
+                    <div class="category-card glass-card-small">
+                        <div class="cat-icon-wrapper bg-pink">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2">
+                                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                            </svg>
+                        </div>
+                        <div class="cat-info">
+                            <span class="cat-title">School</span>
+                            <span class="cat-subtitle">Scholarships</span>
+                        </div>
+                        <svg class="cat-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <line x1="5" y1="12" x2="19" y2="12"></line>
+                            <polyline points="12 5 19 12 12 19"></polyline>
+                        </svg>
+                    </div>
+                </div>
+
+                <!-- Discovery Strip -->
+                <div class="discovery-strip glass-pill">
+                    <span class="strip-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                        </svg> Government</span>
+                    <span class="strip-dot">·</span>
+                    <span class="strip-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                        </svg> Private</span>
+                    <span class="strip-dot">·</span>
+                    <span class="strip-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"></circle>
+                            <line x1="2" y1="12" x2="22" y2="12"></line>
+                            <path
+                                d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                            </path>
+                        </svg> All India</span>
+                    <span class="strip-dot">·</span>
+                    <span class="strip-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                            <circle cx="12" cy="10" r="3"></circle>
+                        </svg> State-wise</span>
+                </div>
+
+                <!-- Solopreneur Section (Redesigned) -->
+                <div class="founder-glass-panel" id="solopreneur-section">
+                    <div class="founder-info-area">
+                        <img src="assets/profile.png" alt="Geetanshu Rathore Profile" class="gr-profile-image">
+                        <div class="founder-details">
+                            <span class="founder-label">Meet Our SOLOPRENEUR</span>
+                            <h2 class="founder-name">GEETANSHU RATHORE</h2>
+                            <p class="founder-bio">Visionary. Builder. Believer in accessible education.</p>
+                            <div class="social-buttons-container">
+                                <a href="mailto:funsuk716@gmail.com" class="glowing-social-btn">
+                                    <svg viewBox="0 0 24 24" fill="currentColor">
+                                        <path
+                                            d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" />
+                                    </svg>
+                                    Gmail
+                                </a>
+                                <a href="https://www.instagram.com/geetanshu_rathore?igsh=amJjNnd2cWlna25r&igsi=amJjNnd2cWlna25r"
+                                    target="_blank" class="glowing-social-btn ig-btn">
+                                    <svg viewBox="0 0 24 24" fill="currentColor">
+                                        <path
+                                            d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z" />
+                                    </svg>
+                                    geetanshu_rathore
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Stats from reference (Assuming data exists or acts as visual placeholder for the reference style) -->
+                    <div class="founder-stats">
+
+                        <div class="stat-box">
+                            <div class="stat-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M22 10v6M2 10l10-5 10 5-10 5z" />
+                                    <path d="M6 12v5c3 3 9 3 12 0v-5" />
+                                </svg></div>
+                            <span class="stat-value">500+</span>
+                            <span class="stat-label">Scholarships</span>
+                        </div>
+                        <div class="stat-divider"></div>
+                        <div class="stat-box">
+                            <div class="stat-icon"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                                    <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                                </svg></div>
+                            <span class="stat-value">100%</span>
+                            <span class="stat-label">Official Links</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- ==========================================
+             PAGE 2 — RESULTS VIEW (DISCOVERY PAGE)
+             ========================================== -->
+        <section id="results-view" class="view-section hidden container">
+            <header class="results-header">
+                <h2>Scholarships for You</h2>
+                <div class="results-stats">
+                    <span id="live-count" class="glass-badge badge-live" aria-live="polite">Live: 0</span>
+                    <span id="closed-count" class="glass-badge badge-closed" aria-live="polite">Closed: 0</span>
+                    <span id="result-count" class="glass-badge badge-total" aria-live="polite">Total Scholarships:
+                        0</span>
+                </div>
+            </header>
+
+            <!-- Search and Filter UI -->
+            <div class="results-controls glass-panel">
+                <div class="search-bar glass-input-wrapper">
+                    <svg class="input-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input type="search" id="scholarship-search" class="glass-input"
+                        placeholder="Search scholarships by name or provider...">
+                </div>
+
+                <div class="filters-bar">
+                    <div class="filter-wrapper">
+                        <select id="filter-education" class="glass-select" aria-label="Filter by Education">
+                            <option value="all">All Education Levels</option>
+                            <option value="school">School</option>
+                            <option value="ug">Undergraduate</option>
+                            <option value="pg">Postgraduate</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-wrapper">
+                        <select id="filter-category" class="glass-select" aria-label="Filter by Category">
+                            <option value="all" selected>All Categories</option>
+                            <option value="general">General</option>
+                            <option value="obc">OBC</option>
+                            <option value="sc">SC</option>
+                            <option value="st">ST</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-wrapper">
+                        <select id="filter-state" class="glass-select" aria-label="Filter by State">
+                            <option value="all">All Locations</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                            <option value="Assam">Assam</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Chhattisgarh">Chhattisgarh</option>
+                            <option value="Goa">Goa</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                            <option value="Jharkhand">Jharkhand</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Manipur">Manipur</option>
+                            <option value="Meghalaya">Meghalaya</option>
+                            <option value="Mizoram">Mizoram</option>
+                            <option value="Nagaland">Nagaland</option>
+                            <option value="Odisha">Odisha</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Sikkim">Sikkim</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Telangana">Telangana</option>
+                            <option value="Tripura">Tripura</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="Uttarakhand">Uttarakhand</option>
+                            <option value="West Bengal">West Bengal</option>
+                            <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+                            <option value="Chandigarh">Chandigarh</option>
+                            <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman
+                                and Diu</option>
+                            <option value="Delhi">Delhi</option>
+                            <option value="Jammu and Kashmir">Jammu and Kashmir</option>
+                            <option value="Ladakh">Ladakh</option>
+                            <option value="Lakshadweep">Lakshadweep</option>
+                            <option value="Puducherry">Puducherry</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-wrapper">
+                        <select id="filter-type" class="glass-select" aria-label="Filter by Type">
+                            <option value="all">All Types</option>
+                            <option value="government">Government</option>
+                            <option value="private">Private</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-wrapper">
+                        <select id="filter-deadline" class="glass-select" aria-label="Filter by Deadline">
+                            <option value="all">Any Deadline</option>
+                            <option value="this_month">This Month</option>
+                            <option value="next_month">Next Month</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-wrapper">
+                        <select id="filter-amount" class="glass-select" aria-label="Filter by Amount">
+                            <option value="all">Any Amount</option>
+                            <option value="under_50k">Under ₹50,000</option>
+                            <option value="above_50k">₹50,000 and above</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading-state" class="status-message hidden" aria-live="polite">
+                <div class="glass-loader"></div>
+                <p>Finding scholarships...</p>
+            </div>
+
+            <!-- Empty Results State -->
+            <div id="empty-state" class="status-message hidden" aria-live="polite">
+                <h3>No scholarships found</h3>
+                <p>Try changing your filters or search criteria.</p>
+                <button id="change-search-button" class="btn-secondary glass-button-small">Change Search</button>
+            </div>
+
+            <!-- Scholarship Grid -->
+            <div id="scholarship-grid" class="grid-container">
+                <!-- Cards will be injected here by script.js -->
+            </div>
+        </section>
+
+        <!-- ==========================================
+             PAGE 3 — SCHOLARSHIP DETAILS VIEW
+             ========================================== -->
+        <section id="details-view" class="view-section hidden container">
+
+            <button id="back-to-results" class="btn-text">
+                &larr; Back to Scholarships
+            </button>
+
+            <article class="details-content glass-panel">
+                <header class="details-header">
+                    <img id="detail-logo" src="" alt="" class="details-logo glass-image-wrapper" hidden>
+                    <div class="details-title-group" style="flex: 1;">
+                        <h1 id="detail-name"></h1>
+                        <p id="detail-provider" class="provider-text"></p>
+                    </div>
+                    <div id="detail-live-status" style="margin-left: auto;"></div>
+                </header>
+
+                <div class="details-quick-info grid-4-cols">
+                    <div class="info-box glass-card-small">
+                        <span class="info-label">Amount</span>
+                        <div id="detail-amount" class="info-value text-green"></div>
+                    </div>
+                    <div class="info-box glass-card-small">
+                        <span class="info-label">Deadline</span>
+                        <div id="detail-deadline" class="info-value"></div>
+                    </div>
+                    <div class="info-box glass-card-small">
+                        <span class="info-label">Education</span>
+                        <div id="detail-education" class="info-value text-blue"></div>
+                    </div>
+                    <div class="info-box glass-card-small">
+                        <span class="info-label">Type</span>
+                        <div id="detail-type" class="info-value text-purple"></div>
+                    </div>
+                    <div class="info-box glass-card-small">
+                        <span class="info-label">Category</span>
+                        <div id="detail-category" class="info-value text-orange"></div>
+                    </div>
+                </div>
+
+                <div class="details-body">
+                    <section class="detail-section">
+                        <h2>About the Scholarship</h2>
+                        <div id="detail-about" class="text-content"></div>
+                    </section>
+
+                    <section class="detail-section">
+                        <h2>Eligibility</h2>
+                        <div id="detail-eligibility" class="text-content"></div>
+                    </section>
+
+                    <section class="detail-section">
+                        <h2>Required Documents</h2>
+                        <ul id="detail-documents" class="document-list text-content"></ul>
+                    </section>
+
+                    <section class="detail-section">
+                        <h2>How to Apply</h2>
+                        <ol id="detail-application-steps" class="step-list text-content"></ol>
+                    </section>
+
+                    <section class="detail-section tips-section glass-panel-accent">
+                        <h2>Important Tips</h2>
+                        <div id="detail-tips" class="text-content"></div>
+                    </section>
+                </div>
+
+                <footer class="details-footer">
+                    <div class="verification-status">
+                        Last Verified: <span id="detail-verified-date"></span>
+                    </div>
+                    <a id="official-apply-button" href="#" target="_blank" rel="noopener noreferrer"
+                        class="btn-primary glass-button-primary large-btn">
+                        Apply Now &rarr;
+                    </a>
+                </footer>
+            </article>
+        </section>
+
+        <!-- ==========================================
+             ABOUT VIEW
+             ========================================== -->
+        <section id="about-view" class="view-section hidden container">
+            <button id="back-from-about" class="btn-text">
+                &larr; Back
+            </button>
+            <article class="details-content glass-panel">
+                <h1 class="page-title">About ScholarshipHai</h1>
+                <div class="text-content">
+                    <p>ScholarshipHai is a student-focused platform that makes scholarship discovery simple. We bring
+                        scholarship information, eligibility criteria, deadlines, categories, application details, and
+                        official application links together in one place — so students can spend less time searching and
+                        more time applying.</p>
+                </div>
+            </article>
+        </section>
+
+        <!-- ==========================================
+             PRIVACY VIEW
+             ========================================== -->
+        <section id="privacy-view" class="view-section hidden container">
+            <button id="back-from-privacy" class="btn-text">
+                &larr; Back
+            </button>
+            <article class="details-content glass-panel">
+                <h1 class="page-title">Privacy Policy</h1>
+                <div class="text-content">
+                    <p>ScholarshipHai is designed to help students discover scholarship opportunities. We do not require
+                        users to create an account or provide personal information to browse scholarship information on
+                        the website.</p>
+                    <p>Scholarship information displayed on ScholarshipHai may include scholarship names, eligibility
+                        criteria, deadlines, benefits, categories, and links to official application portals.</p>
+                    <p>When you click an application link, you may be redirected to a third-party website. Those
+                        websites have their own privacy policies and terms, and ScholarshipHai is not responsible for
+                        their data practices.</p>
+                    <p>We may use basic technical information or analytics, if enabled in the future, to understand
+                        website usage and improve the platform.</p>
+                    <p class="contact-text">If you have questions about this Privacy Policy, contact us at
+                        <span>funsuk716@gmail.com</span>.
+                    </p>
+                </div>
+            </article>
+        </section>
+
+        <!-- ==========================================
+             TERMS VIEW
+             ========================================== -->
+        <section id="terms-view" class="view-section hidden container">
+            <button id="back-from-terms" class="btn-text">
+                &larr; Back
+            </button>
+            <article class="details-content glass-panel">
+                <h1 class="page-title">Terms of Use</h1>
+                <div class="text-content">
+                    <p>ScholarshipHai provides scholarship information for general informational and educational
+                        purposes.</p>
+                    <p>We make reasonable efforts to provide useful and accurate information, but scholarship
+                        eligibility, deadlines, benefits, selection criteria, and application requirements may change.
+                        Students should always verify the latest information on the official scholarship website before
+                        applying.</p>
+                    <p>ScholarshipHai does not guarantee scholarship selection, approval, financial assistance, or any
+                        particular outcome from an application.</p>
+                    <p>Application links provided on ScholarshipHai may redirect users to third-party websites. We do
+                        not control or operate those external websites.</p>
+                    <p>By using ScholarshipHai, you agree to use the information responsibly and verify important
+                        details with the official scholarship provider.</p>
+                </div>
+            </article>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="glass-footer">
+        <div class="container footer-content">
+
+            <div class="footer-top">
+                <div class="footer-brand-info">
+                    <span class="footer-title">ScholarshipHai</span>
+                    <p class="footer-tagline">Making scholarship discovery simple for students.</p>
+                </div>
+
+                <div class="footer-nav">
+                    <button id="about-button" class="btn-footer-link">About</button>
+                    <button id="privacy-button" class="btn-footer-link">Privacy</button>
+                    <button id="terms-button" class="btn-footer-link">Terms</button>
+                </div>
+            </div>
+
+            <div class="footer-divider"></div>
+
+            <div class="footer-bottom">
+                <div class="footer-founder-info">
+                    <span class="founder-label-small">SOLOPRENEUR</span>
+                    <strong class="founder-name-small">𝙶𝙴𝙴𝚃𝙰𝙽𝚂𝙷𝚄 𝚁𝙰𝚃𝙷𝙾𝚁𝙴</strong>
+                    <span class="founder-email-small">funsuk716@gmail.com</span>
+                </div>
+
+                <div class="footer-copyright">
+                    <p>© 2026 ScholarshipHai. All rights reserved.</p>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+    <!-- ==========================================
+         SCHOLARSHIP CARD TEMPLATE
+         ========================================== -->
+    <template id="scholarship-card-template">
+        <article class="scholarship-card glass-card">
+            <header class="card-header">
+                <div class="card-status-badge"></div>
+                <div class="card-logo-wrapper">
+                    <img class="card-logo" src="" alt="Scholarship Logo">
+                </div>
+                <div class="card-title-area">
+                    <h3 class="card-title"></h3>
+                    <p class="card-provider"></p>
+                </div>
+            </header>
+
+            <div class="card-metrics-grid">
+                <div class="metric">
+                    <span class="metric-icon" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                        </svg></span>
+                    <span class="card-amount"></span>
+                </div>
+                <div class="metric">
+                    <span class="metric-icon" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24"
+                            fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                        </svg></span>
+                    <span class="card-deadline"></span>
+                </div>
+            </div>
+
+            <div class="card-badges">
+                <span class="badge card-education bg-blue-light text-blue-dark"></span>
+                <span class="badge card-type bg-gray-light text-gray-dark"></span>
+                <span class="badge card-category bg-purple-light text-purple-dark"></span>
+            </div>
+
+            <p class="card-description"></p>
+
+            <footer class="card-footer">
+                <button class="btn-secondary glass-button-secondary view-details-btn">
+                    View Details &rarr;
+                </button>
+            </footer>
+        </article>
+    </template>
+
+</body>
+
+</html>

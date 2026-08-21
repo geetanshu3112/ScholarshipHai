@@ -1,0 +1,2639 @@
+[
+  {
+    "id": 1,
+    "name": "Reliance Foundation Undergraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "logo": "assets/reliance-foundation.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "All"
+    ],
+    "amount": "Up to ₹2,00,000 over the entire degree program",
+    "deadline": "October 2026 (Expected)",
+    "description": "Reliance Foundation Undergraduate Scholarships support meritorious students pursuing undergraduate education in India. The programme is based on merit-cum-means and supports students across subject streams.This scholarship will be awarded to 5,000 students. ",
+    "eligibility": [
+      "Indian citizen",
+      "Passed Standard 12th with minimum 60% marks",
+      "Currently enrolled in the first year of a regular full-time undergraduate degree programme",
+      "Household income must meet the programme's income eligibility criteria",
+      "Mandatory aptitude test"
+    ],
+    "documents": [
+      "Academic records",
+      "Personal and contact information",
+      "Achievements and awards information",
+      "Supporting documents"
+    ],
+    "applicationSteps": [
+      "Visit the official Reliance Foundation scholarship website.",
+      "Complete the application form.",
+      "Provide academic and personal information.",
+      "Upload the required supporting documents.",
+      "Complete the mandatory aptitude test."
+    ],
+    "tips": [
+      "Check the official eligibility criteria carefully before applying.",
+      "Keep academic and supporting documents ready.",
+      "Complete the aptitude test as required.",
+      "Submit the application before the official deadline."
+    ],
+    "officialApplyUrl": "https://scholarshipportal.reliancefoundation.org/RegisterScholar#ug",
+    "officialSourceUrl": "https://www.scholarships.reliancefoundation.org/UG_Scholarship",
+    "verifiedAt": "14 August 2026"
+  },
+  {
+    "id": 2,
+    "name": "Reliance Foundation Postgraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "logo": "assets/reliance-foundation.png",
+    "educationLevel": [
+      "PG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "All"
+    ],
+    "amount": "Up to Rs. 6 Lakhs across the duration of the degree",
+    "deadline": "October 2026 (Expected)",
+    "description": "Reliance Foundation Postgraduate Scholarships support meritorious students pursuing eligible postgraduate programmes in India.and Up to 100 postgraduate scholarships available across India.",
+    "eligibility": [
+      "Indian citizen",
+      "Must meet the academic and programme-specific eligibility criteria",
+      "Must be enrolled in an eligible postgraduate programme",
+      "Household income must meet the applicable income eligibility criteria",
+      "Must complete the required selection process"
+    ],
+    "documents": [
+      "Academic records",
+      "Personal and contact information",
+      "Admission or enrolment proof",
+      "Supporting documents"
+    ],
+    "applicationSteps": [
+      "Visit the official Reliance Foundation scholarship website.",
+      "Register and complete the application form.",
+      "Provide academic and personal information.",
+      "Upload the required documents.",
+      "Complete the required selection process."
+    ],
+    "tips": [
+      "Check the official postgraduate eligibility criteria.",
+      "Keep academic and admission documents ready.",
+      "Review the application carefully before submission.",
+      "Apply before the official deadline."
+    ],
+    "officialApplyUrl": "https://scholarshipportal.reliancefoundation.org/RegisterScholar#pg",
+    "officialSourceUrl": "https://www.scholarships.reliancefoundation.org/PG_Scholarship",
+    "verifiedAt": "14 August 2026"
+  },
+  {
+    "id": 3,
+    "name": "Muskaan Scholarship Program 2.0 (2026-27)",
+    "provider": "Muskaan Dreams",
+    "logo": "assets/muskaan-scholarship.png",
+    "educationLevel": [
+      "School"
+    ],
+    "location": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "All"
+    ],
+    "amount": "Up to ₹12000",
+    "deadline": "20 august 2026",
+    "description": "Muskaan Scholarship Program 2.0 supports eligible students who meet the programme's academic, financial and other selection criteria.",
+    "eligibility": [
+      "Must be enrolled in Class 9, 10, 11, or 12",
+      "Must have scored at least 60% marks in the previous class exam",
+      "Total annual family income must be under ₹8 Lakh",
+      "Must be the child of a commercial driver (LMV/HMV), a mechanic, or belong to an Economically Weaker Section (EWS) family"
+    ],
+    "documents": [
+      "Academic records",
+      "Identity proof",
+      "Income proof",
+      "Admission or enrolment proof",
+      "Other supporting documents as required"
+    ],
+    "applicationSteps": [
+      "Visit the official scholarship application page.",
+      "Register or log in.",
+      "Complete the application form.",
+      "Upload the required documents.",
+      "Review and submit the application."
+    ],
+    "tips": [
+      "Read the complete eligibility criteria before applying.",
+      "Keep income and academic documents ready.",
+      "Check all uploaded documents before submission.",
+      "Apply before the official deadline."
+    ],
+    "officialApplyUrl": "https://muskaan.synergieinsights.in/home/Application",
+    "officialSourceUrl": "https://muskaan.synergieinsights.in/home/Application",
+    "verifiedAt": "15 August 2026",
+    "dataNote": "The uploaded source identifies Muskaan Dreams as the provider, but the current official Muskaan Scholarship Program 2.0 (2026-27) page verified on 17 August 2026 identifies Valvoline Cummins Private Limited as the provider. This record should therefore be manually reviewed before being published as a live scholarship listing."
+  },
+  {
+    "id": 4,
+    "name": "Mohan T Advani Centennial Scholarship Programme 2026-27",
+    "provider": "Blue Star Foundation",
+    "logo": "assets/bluestar-foundation.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹1 Lakh",
+    "numericAmount": 100000,
+    "deadline": "31 July 2026",
+    "description": "The Mohan T Advani Centennial Scholarship Programme supports deserving students pursuing engineering, architecture and diploma programmes at selected institutions across India.",
+    "about": "<p>The programme is a CSR initiative of Blue Star Foundation designed to help financially disadvantaged students continue technical education.</p><p>Engineering and architecture degree students may receive up to ₹1 lakh or 75% of eligible academic fees, whichever is lower.</p>",
+    "eligibility": [
+      "First or second-year student in an eligible programme",
+      "Engineering or architecture degree/diploma programme",
+      "Must study at an eligible partner institution",
+      "Minimum academic performance requirement applies",
+      "Annual family income generally below ₹6 lakh",
+      "Additional institution-specific conditions apply"
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Admission proof",
+      "Income certificate",
+      "Identity proof",
+      "Fee receipt",
+      "Photograph"
+    ],
+    "applicationSteps": [
+      "Visit the official scholarship application portal.",
+      "Register and complete the application form.",
+      "Provide academic and financial information.",
+      "Upload supporting documents.",
+      "Submit the application."
+    ],
+    "tips": [
+      "Check whether your institution appears in the eligible institution list.",
+      "Confirm your year of study.",
+      "Keep fee and income documents ready."
+    ],
+    "officialApplyUrl": "https://www.buddy4study.com/",
+    "officialSourceUrl": "https://www.buddy4study.com/",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 5,
+    "name": "SBI Platinum Jubilee Asha Scholarship 2026-27",
+    "provider": "SBI Foundation",
+    "logo": "assets/sbi-foundation.png",
+    "educationLevel": [
+      "School",
+      "UG",
+      "PG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹20 Lakhs per year depending on category",
+    "numericAmount": 2000000,
+    "deadline": "4 September 2026",
+    "description": "The SBI Platinum Jubilee Asha Scholarship 2026-27 supports meritorious students from economically weaker backgrounds across multiple education levels, including Classes 9-12, undergraduate and postgraduate studies, IITs, IIMs, medical education and eligible overseas studies.",
+    "about": "<p>The SBI Platinum Jubilee Asha Scholarship is an education initiative of SBI Foundation designed to reduce financial barriers for deserving students.</p><p>The 2026-27 programme includes multiple scholarship tracks with different academic, institutional and family-income requirements.</p>",
+    "eligibility": [
+      "General Rules:",
+      "Must be an Indian citizen.",
+      "Minimum 75% marks in the last exam (relaxed to 67.5% or 6.3 CGPA for SC/ST).",
+      "Direct application available via the [SBI Asha Scholarship Portal]",
+      "Category-Specific Eligibility:",
+      "School Students (Class 9–12): Enrolled in school; family income up to ₹3 lakh.",
+      "Undergraduate Students: Studying in top 300 NIRF overall or NAAC 'A' grade institutions; family income up to ₹6 lakh.",
+      "Postgraduate, IIT, IIM, & Medical (MBBS): Enrolled in recognized premier or standard institutions under respective tracks; family income up to ₹6 lakh.",
+      "Overseas Studies: Restricted to SC/ST students getting into top global institutions; family income up to ₹6 lakh."
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Identity proof",
+      "Income proof",
+      "Current admission or enrolment proof",
+      "Bank account details",
+      "Category certificate where applicable"
+    ],
+    "applicationSteps": [
+      "Visit the official SBI Asha Scholarship portal.",
+      "Create or log in to your account.",
+      "Select the appropriate scholarship category.",
+      "Complete the application form.",
+      "Upload the required documents.",
+      "Review the information carefully.",
+      "Submit the application before the deadline."
+    ],
+    "tips": [
+      "Select the scholarship track that exactly matches your education level.",
+      "Check the institution eligibility requirements.",
+      "Keep income and academic documents ready.",
+      "Submit before the official deadline."
+    ],
+    "officialApplyUrl": "https://www.sbiashascholarship.co.in/",
+    "officialSourceUrl": "https://www.sbiashascholarship.co.in/",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 6,
+    "name": "Kotak Kanya Scholarship 2026-27",
+    "provider": "Kotak Education Foundation",
+    "logo": "assets/kotak-education-foundation.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹1.5 Lakhs per year",
+    "numericAmount": 150000,
+    "deadline": "31 August 2026",
+    "description": "The Kotak Kanya Scholarship supports deserving girl students pursuing professional higher education after Class 12 and provides financial assistance to help them continue their studies.",
+    "about": "<p>The Kotak Kanya Scholarship is an initiative of Kotak Education Foundation focused on supporting young women pursuing higher education.</p><p>Eligible students can receive financial assistance along with support aimed at improving their educational and career opportunities.</p>",
+    "eligibility": [
+      "Gender & Income: Open exclusively to female students across India with an annual family income of up to INR 6,00,000.",
+      "Academics: Must have secured at least 75% marks in Class 12.",
+      "Course & Institution: Must be in the first year of professional undergraduate programs (e.g., Engineering, MBBS, Architecture, Design, or Integrated professional courses) at NIRF/NAAC-accredited or similarly recognized institutions.",
+      "Exclusions: Wards of employees of Kotak Mahindra Group, Kotak Education Foundation, and Buddy4Study cannot apply."
+    ],
+    "documents": [
+      "Class 10 marksheet",
+      "Class 12 marksheet",
+      "Admission proof",
+      "Income certificate",
+      "Identity proof",
+      "Bank account details",
+      "Photograph"
+    ],
+    "applicationSteps": [
+      "Visit the official scholarship application portal.",
+      "Register or log in.",
+      "Complete your personal and academic details.",
+      "Upload the required documents.",
+      "Review your application.",
+      "Submit before the deadline."
+    ],
+    "tips": [
+      "Check whether your professional course is covered.",
+      "Keep admission documents ready.",
+      "Verify the income requirement before applying.",
+      "Do not wait until the final day."
+    ],
+    "officialApplyUrl": "https://www.buddy4study.com/application/KKGS5/instruction",
+    "officialSourceUrl": "https://www.kotakeducationfoundation.org/",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 7,
+    "name": "FAEA Scholarship 2026-27",
+    "provider": "Foundation for Academic Excellence and Access",
+    "logo": "assets/faea.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Financial support for higher education",
+    "numericAmount": 0,
+    "deadline": "7 July 2026",
+    "description": "The FAEA Scholarship supports students from socially and economically disadvantaged backgrounds pursuing undergraduate education and aims to improve access to higher education.",
+    "about": "<p>FAEA works to expand access to higher education for academically capable students who face social or economic disadvantages.</p>",
+    "eligibility": [
+      "Indian student",
+      "Undergraduate student or eligible applicant",
+      "Must satisfy the scholarship's social, economic and academic criteria",
+      "Additional programme-specific conditions apply"
+    ],
+    "documents": [
+      "Academic records",
+      "Identity proof",
+      "Income-related documents",
+      "Category documents where applicable",
+      "Admission or enrolment proof"
+    ],
+    "applicationSteps": [
+      "Visit the official FAEA website.",
+      "Register for the scholarship.",
+      "Complete the application.",
+      "Upload the required information and documents.",
+      "Submit the application."
+    ],
+    "tips": [
+      "Check the next application cycle before applying.",
+      "Use only the official FAEA website.",
+      "Keep academic and income documents ready."
+    ],
+    "officialApplyUrl": "https://www.faeaindia.org/",
+    "officialSourceUrl": "https://www.faeaindia.org/",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 8,
+    "name": "Tata Capital Pankh Scholarship Programme",
+    "provider": "Tata Capital",
+    "logo": "assets/tata-capital.png",
+    "educationLevel": [
+      "School",
+      "UG",
+      "PG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to 80% of tuition fees",
+    "numericAmount": 0,
+    "deadline": "Currently Closed",
+    "description": "The Tata Capital Pankh Scholarship supports academically capable students from financially challenged backgrounds pursuing senior secondary, undergraduate, diploma and postgraduate education.",
+    "about": "<p>The Pankh Scholarship Programme is Tata Capital's education initiative aimed at helping students continue their education despite financial challenges.</p><p>Support may be provided as tuition-fee assistance or financial grants depending on the applicable scholarship category.</p>",
+    "eligibility": [
+      "Student enrolled in an eligible course",
+      "Minimum academic performance requirement applies",
+      "Family income must meet the prescribed limit",
+      "Indian student",
+      "Additional category-specific conditions apply"
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Admission proof",
+      "Income certificate",
+      "Identity proof",
+      "Fee receipt",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Visit the official Tata Capital scholarship information page.",
+      "Access the application portal when the cycle is open.",
+      "Complete the application.",
+      "Upload required documents.",
+      "Submit the application."
+    ],
+    "tips": [
+      "Check the current application cycle.",
+      "Verify the exact scholarship category applicable to your course.",
+      "Keep income and academic documents ready."
+    ],
+    "officialApplyUrl": "https://www.tatacapital.com/sustainability/education.html",
+    "officialSourceUrl": "https://www.tatacapital.com/sustainability/education.html",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 9,
+    "name": "HDFC Bank Parivartan's ECSS Scholarship Programme",
+    "provider": "HDFC Bank",
+    "logo": "assets/hdfc-bank.png",
+    "educationLevel": [
+      "School",
+      "UG",
+      "PG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹75,000",
+    "numericAmount": 75000,
+    "deadline": "31 August 2026 (Tentative)",
+    "description": "HDFC Bank Parivartan's Educational Crisis Scholarship Support Programme provides financial assistance to meritorious and needy students facing financial difficulties or family crises.",
+    "about": "<p>The ECSS programme is an HDFC Bank CSR initiative supporting students whose education is at risk because of financial hardship or personal and family crises.</p>",
+    "eligibility": [
+      "Indian national",
+      "Enrolled in an eligible school, diploma, ITI, polytechnic, UG or PG programme",
+      "Minimum academic requirement applies",
+      "Family income must meet the applicable limit",
+      "Preference may be given to students facing serious financial or family crises"
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Identity proof",
+      "Income proof",
+      "Admission proof",
+      "Fee receipt",
+      "Bank details",
+      "Crisis-related supporting documents where applicable"
+    ],
+    "applicationSteps": [
+      "Visit the official HDFC Bank ECSS scholarship portal.",
+      "Select the applicable education category.",
+      "Register and complete the form.",
+      "Upload documents.",
+      "Submit the application."
+    ],
+    "tips": [
+      "Select the correct education category.",
+      "Check the current year's deadline.",
+      "Provide accurate financial information."
+    ],
+    "officialApplyUrl": "https://www.hdfcbankecss.com/",
+    "officialSourceUrl": "https://v.hdfc.bank.in/csr/initiatives/education.html",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 10,
+    "name": "Sumangala Scholarship 2026-27",
+    "provider": "Sumangala Steel Private Limited",
+    "logo": "assets/sumangala-steel.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "Tamil Nadu",
+      "Puducherry"
+    ],
+    "state": [
+      "Tamil Nadu",
+      "Puducherry"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹1 Lakh per year",
+    "numericAmount": 100000,
+    "deadline": "15 July 2026",
+    "description": "The Sumangala Scholarship supports students pursuing engineering degree or diploma programmes in Tamil Nadu and Puducherry, particularly children of parents working in construction-related industries.",
+    "about": "<p>The Sumangala Scholarship is a CSR initiative designed to support students entering engineering and diploma education.</p><p>Engineering students can receive up to ₹1 lakh per year or actual tuition fees, whichever is lower. Diploma students can receive up to ₹75,000 per year or actual tuition fees.</p>",
+    "eligibility": [
+      "Passed Class 12 for engineering degree or Class 10 for diploma",
+      "Minimum 70% marks",
+      "Studied Class 10 and 12 in Tamil Nadu and/or Puducherry as applicable",
+      "Permanent residence in Tamil Nadu or Puducherry",
+      "Parent must work in an eligible construction or related steel industry"
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Residence proof",
+      "Parent occupation proof",
+      "Admission proof",
+      "Fee documents",
+      "Identity proof"
+    ],
+    "applicationSteps": [
+      "Check the official scholarship eligibility conditions.",
+      "Download the application form.",
+      "Complete the required information.",
+      "Attach supporting documents.",
+      "Submit according to the official instructions."
+    ],
+    "tips": [
+      "This scholarship is geographically restricted.",
+      "Verify the parent occupation requirement.",
+      "Check the next application cycle if the current deadline has passed."
+    ],
+    "officialApplyUrl": "https://www.sumangalasteel.in/scholarship.html",
+    "officialSourceUrl": "https://www.sumangalasteel.in/scholarship.html",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 11,
+    "name": "LIC Golden Jubilee Scholarship Scheme",
+    "provider": "Life Insurance Corporation of India",
+    "logo": "assets/lic.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Private",
+    "category": [
+      "General",
+      "OBC",
+      "SC",
+      "ST"
+    ],
+    "amount": "Up to ₹30,000 per year for eligible professional courses",
+    "numericAmount": 30000,
+    "deadline": "Check official LIC portal",
+    "description": "The LIC Golden Jubilee Scholarship supports meritorious students from economically weaker sections pursuing higher education in India.",
+    "about": "<p>The LIC Golden Jubilee Foundation provides scholarships to help economically weaker students access higher education.</p><p>The scheme has supported students pursuing professional and other recognized higher education programmes.</p>",
+    "eligibility": [
+      "Indian student",
+      "Meritorious student from an economically weaker section",
+      "Must meet the prescribed academic performance requirement",
+      "Family income must meet the applicable limit",
+      "Must pursue an eligible higher education programme"
+    ],
+    "documents": [
+      "Academic marksheets",
+      "Income proof",
+      "Identity proof",
+      "Admission proof",
+      "Bank account details",
+      "Other documents specified by LIC"
+    ],
+    "applicationSteps": [
+      "Visit the LIC Golden Jubilee Foundation website.",
+      "Check the latest scholarship notification.",
+      "Complete the application as instructed.",
+      "Submit required documents.",
+      "Follow the divisional office verification process where applicable."
+    ],
+    "tips": [
+      "Check LIC's latest notification before applying.",
+      "Do not rely on an old application deadline.",
+      "Keep income and academic documents ready."
+    ],
+    "officialApplyUrl": "https://licindia.in/en/web/guest/golden-jubilee-foundation",
+    "officialSourceUrl": "https://licindia.in/en/web/guest/golden-jubilee-foundation",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+    "id": 12,
+    "name": "PM YASASVI Central Sector Scheme of Top Class Education in College for OBC, EBC and DNT Students 2026-27",
+    "provider": "Ministry of Social Justice and Empowerment, Government of India",
+    "logo": "assets/pm-yasasvi.png",
+    "educationLevel": [
+      "UG"
+    ],
+    "location": [
+      "All India"
+    ],
+    "state": [
+      "All India"
+    ],
+    "type": "Government",
+    "category": [
+      "OBC",
+      "EBC",
+      "DNT"
+    ],
+    "amount": "Tuition fees and other financial assistance as per scheme norms",
+    "numericAmount": 0,
+    "deadline": "31 october 2026",
+    "description": "PM YASASVI Central Sector Scheme of Top Class Education in College provides financial assistance to eligible OBC, EBC and DNT students pursuing higher education in eligible institutions across India.",
+    "about": "<p>The PM YASASVI Top Class Education scheme is a Government of India scholarship designed to support eligible students from OBC, EBC and DNT communities pursuing higher education.</p><p>The scholarship is implemented through the National Scholarship Portal and provides financial assistance according to the applicable scheme guidelines.</p>",
+    "eligibility": [
+      "Category: Must belong to Other Backward Classes (OBC), Economically Backward Classes (EBC), or Denotified, Nomadic Tribes (DNT).",
+      "Family Income: Total annual family income from all sources must not exceed ₹2,50,000.",
+      "Academic Level: Must be pursuing studies beyond Class 12, such as undergraduate (UG) or postgraduate (PG) courses.",
+      "Institution Admission: Must secure admission into a full-time course at a notified top-class institution (like IITs, IIMs, NITs, and other approved colleges) based on the institution's selection rules.",
+      "Sibling Limit: Benefits are restricted to a maximum of two siblings per family, certified via a submitted affidavit."
+    ],
+    "documents": [
+      "Aadhaar or valid identity proof",
+      "Caste or community certificate",
+      "Income certificate",
+      "Academic marksheets",
+      "Admission or bonafide certificate",
+      "Fee details",
+      "Bank account details",
+      "Other documents required by NSP"
+    ],
+    "applicationSteps": [
+      "Visit the National Scholarship Portal.",
+      "Complete the required One Time Registration process.",
+      "Log in and select the PM YASASVI Top Class Education scheme.",
+      "Fill in the scholarship application.",
+      "Upload the required documents.",
+      "Verify all information carefully.",
+      "Submit the application before the deadline."
+    ],
+    "tips": [
+      "Check that your category is covered by the scheme.",
+      "Verify that your college and course are eligible.",
+      "Keep your caste and income certificates ready.",
+      "Complete NSP registration before the deadline.",
+      "Check the official scheme guidelines for the exact financial benefits."
+    ],
+    "officialApplyUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://scholarships.gov.in/",
+    "verifiedAt": "17 August 2026"
+  },
+  {
+  "id": 13,
+  "name": "Sitaram Jindal Scholarship Scheme",
+  "provider": "Sitaram Jindal Foundation",
+  "logo": "assets/sitaram-jindal-foundation.png",
+  "educationLevel": ["School", "ITI", "Diploma", "UG", "PG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "₹500 – ₹3,200 per month",
+  "numericAmount": 38400,
+  "deadline": "Always Open",
+  "description": "The Sitaram Jindal Scholarship Scheme provides financial assistance to deserving students from Class 11 through postgraduate, engineering, medical, ITI and diploma courses. The scholarship is designed to support students who meet the prescribed academic and family income criteria.",
+  "about": "<p>The Sitaram Jindal Scholarship Scheme is offered by the Sitaram Jindal Foundation to provide financial support to deserving students pursuing different levels of education.</p><p>The scheme covers students from Class 11 and 12, ITI, diploma, graduation, postgraduate, engineering and medical courses. Scholarship benefits vary according to the student's course, category and applicable eligibility conditions.</p><p>Applications are accepted throughout the year through the official Sitaram Jindal Foundation application portal.</p>",
+  "eligibility": [
+    "Must be below 30 years of age",
+    "Students studying in Class 11 or 12 may apply subject to the applicable conditions",
+    "Students pursuing ITI, Diploma, Graduation, Post-Graduation, Engineering or Medical courses may be eligible",
+    "Annual family income must generally be within the prescribed income limit",
+    "Applicants must meet the prescribed academic percentage requirements",
+    "Academic requirements may vary according to gender, state and course",
+    "Students with physical disabilities may be eligible with the minimum passing marks subject to scheme conditions",
+    "Applicant must satisfy all applicable conditions specified by the Sitaram Jindal Foundation"
+  ],
+  "documents": [
+    "Recent academic marksheet",
+    "Identity proof",
+    "Income certificate",
+    "Admission or bonafide certificate",
+    "Fee receipt or fee details",
+    "Bank account details",
+    "Passport-size photograph",
+    "Category certificate, if applicable",
+    "Disability certificate, if applicable"
+  ],
+  "applicationSteps": [
+    "Visit the official Sitaram Jindal Foundation scholarship application portal.",
+    "Register or log in to the scholarship application portal.",
+    "Fill in the required personal, academic and family information.",
+    "Upload the required supporting documents.",
+    "Review the application carefully.",
+    "Submit the application through the official portal.",
+    "Keep the application details for future reference."
+  ],
+  "tips": [
+    "Check the latest eligibility requirements on the official website before applying.",
+    "Keep your income and academic documents ready.",
+    "Make sure your course and institution meet the applicable scheme conditions.",
+    "Check the academic percentage requirement applicable to your category, state and course.",
+    "Applications are accepted throughout the year, but submit your application as early as possible."
+  ],
+  "officialApplyUrl": "https://app.sitaramjindalfoundation.org/Login/SJFWebPage",
+  "officialSourceUrl": "https://www.sitaramjindalfoundation.org/",
+  "verifiedAt": "17 August 2026"
+},
+{
+  "id": 14,
+  "name": "Infosys Foundation STEM Stars Scholarship Program",
+  "provider": "Infosys Foundation",
+  "logo": "assets/infosys-foundation.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "Up to ₹1,00,000 per year",
+  "numericAmount": 100000,
+  "deadline": "Coming Soon",
+  "description": "The Infosys Foundation STEM Stars Scholarship provides financial support to female students from economically disadvantaged backgrounds pursuing undergraduate STEM courses in India. The scholarship supports eligible students with educational expenses including tuition, living costs and study materials.",
+  "about": "<p>The Infosys Foundation STEM Stars Scholarship is designed to support female students pursuing undergraduate education in Science, Technology, Engineering and Mathematics (STEM) fields.</p><p>The scholarship provides financial assistance of up to ₹1,00,000 per year and is intended to help eligible students meet educational expenses throughout their programme.</p><p>Applications and programme updates are announced through the scholarship's official application and information channels.</p>",
+  "eligibility": [
+    "Must be a female citizen of India",
+    "Must have passed Class 12",
+    "Must be enrolled in the first year of an eligible undergraduate STEM course",
+    "Eligible fields may include Engineering, MBBS/Medical and B.Sc STEM programmes",
+    "Must be studying at an eligible NIRF-accredited institution",
+    "Students in government engineering and medical colleges may be eligible even if the institution is not NIRF-ranked, subject to scheme conditions",
+    "Students in the second year of B.Arch or eligible 5-year integrated/dual-degree programmes may also be considered",
+    "Annual family income must generally be ₹8,00,000 or below",
+    "Must satisfy all additional eligibility conditions specified for the applicable scholarship cycle"
+  ],
+  "documents": [
+    "Class 10 marksheet",
+    "Class 12 marksheet",
+    "Entrance examination scorecard, if applicable",
+    "College admission proof",
+    "Government-issued photo ID",
+    "Family income certificate or BPL document, if applicable",
+    "Bank account details",
+    "Passport-size photograph",
+    "Other documents required during application"
+  ],
+  "applicationSteps": [
+    "Visit the scholarship information and application page.",
+    "Check the latest eligibility criteria when applications open.",
+    "Complete the scholarship application form.",
+    "Enter the required personal, academic and financial information.",
+    "Upload the required supporting documents.",
+    "Review the application carefully.",
+    "Submit the application after the application window opens."
+  ],
+  "tips": [
+    "The current application status is Coming Soon, so check the official information page regularly.",
+    "Keep your Class 12 marksheet and entrance examination documents ready.",
+    "Keep a valid family income certificate available.",
+    "Check whether your college and STEM course meet the applicable eligibility conditions.",
+    "Verify the latest requirements when the 2026-27 application window opens."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/infosys-stem-stars-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/infosys-stem-stars-scholarship",
+  "verifiedAt": "18 August 2026"
+},
+{
+  "id": 15,
+  "name": "Amazon Future Engineer Scholarship",
+  "provider": "Amazon Future Engineer",
+  "logo": "assets/amazon-future-engineer.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "₹50,000 per year + Free Laptop",
+  "numericAmount": 50000,
+  "deadline": "Will Reopen in 2027",
+  "description": "The Amazon Future Engineer Scholarship in India supports female students from low-income families who are pursuing their first year of B.E. or B.Tech. in Computer Science, Information Technology or allied branches. The programme provides financial assistance, a laptop and career-development opportunities.",
+  "about": "<p>The Amazon Future Engineer Scholarship is designed to support female engineering students from economically disadvantaged families who are beginning their undergraduate education in technology-related fields.</p><p>Eligible scholars may receive financial assistance of ₹50,000 per year for up to four years, along with a laptop and access to mentorship, technical learning opportunities and career-development programmes.</p><p>The scholarship is expected to reopen in 2027. Students should check the official programme page for the latest application announcement and eligibility requirements.</p>",
+  "eligibility": [
+    "Must be a female citizen of India",
+    "Must be studying in the first year of a B.E. or B.Tech. programme",
+    "Must be pursuing Computer Science, Information Technology or an allied engineering branch",
+    "Admission must have been obtained through a valid state-level or national-level entrance examination or state-level counselling",
+    "Annual family income must generally be less than ₹3,00,000",
+    "Must satisfy all additional eligibility conditions applicable to the scholarship cycle"
+  ],
+  "documents": [
+    "Class 10 marksheet",
+    "Class 12 marksheet",
+    "Entrance examination rank or score certificate",
+    "College admission proof",
+    "College bonafide certificate",
+    "Family income certificate",
+    "Government-issued identity proof",
+    "Bank account details",
+    "Other documents requested during the application process"
+  ],
+  "applicationSteps": [
+    "Visit the official Amazon Future Engineer Scholarship programme page.",
+    "Check the latest eligibility criteria when applications reopen.",
+    "Complete the online scholarship application through the designated application platform.",
+    "Provide your personal, academic and financial information.",
+    "Upload the required supporting documents.",
+    "Review all information carefully before submission.",
+    "Submit the application and retain the application details for future reference."
+  ],
+  "tips": [
+    "The scholarship is expected to reopen in 2027, so check the official programme page for announcements.",
+    "Keep your entrance examination documents and college admission proof ready.",
+    "Keep an updated family income certificate available.",
+    "Check that your B.E. or B.Tech. branch falls within the eligible Computer Science, IT or allied disciplines.",
+    "Verify the latest eligibility criteria before applying because programme conditions may change between scholarship cycles."
+  ],
+  "officialApplyUrl": "https://www.amazonfutureengineer.in/Scholarship%20and%20Internship-%202025",
+  "officialSourceUrl": "https://www.amazonfutureengineer.in/Scholarship%20and%20Internship-%202025",
+  "verifiedAt": "18 August 2026"
+},
+{
+  "id": 16,
+  "name": "Legrand Empowering Scholarship Program 2026-27",
+  "provider": "Legrand",
+  "logo": "assets/legrand.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST", "EWS", "PwD", "LGBTQ+", "Single Parent", "Orphan", "COVID-Affected"],
+  "amount": "Up to ₹1,00,000 per year",
+  "numericAmount": 100000,
+  "deadline": "7 September 2026",
+  "description": "The Legrand Empowering Scholarship Program supports undergraduate students in India through financial assistance towards their annual course fees. The programme includes a general category for girl students and special categories for eligible students from specified backgrounds.",
+  "about": "<p>The Legrand Empowering Scholarship Program provides financial assistance to eligible undergraduate students pursuing higher education in India.</p><p>Under the general category, girl students pursuing eligible undergraduate courses may receive support covering a portion of their annual course fees. The programme also provides enhanced support for students belonging to specified special categories.</p><p>The scholarship supports eligible courses including B.Tech, B.E., B.Arch, BBA, B.Com and B.Sc, subject to the applicable programme conditions.</p>",
+  "eligibility": [
+    "Must be an Indian citizen",
+    "Must be enrolled in the first year of an eligible undergraduate degree programme",
+    "Eligible courses may include B.Tech, B.E., B.Arch, BBA, B.Com and B.Sc",
+    "General category is open to eligible girl students",
+    "General category applicants must generally have secured 70% to 80% aggregate marks in Class 10 and Class 12, as applicable",
+    "Special category may include students with disabilities, LGBTQ+ students, children of single parents, orphans and students affected by COVID-19",
+    "Special category applicants must generally have secured at least 60% marks in Class 10 and Class 12",
+    "Total annual family income from all sources must generally be below ₹5,00,000",
+    "Applicant must satisfy all additional conditions specified for the 2026-27 scholarship cycle"
+  ],
+  "documents": [
+    "Class 10 marksheet",
+    "Class 12 marksheet",
+    "College admission proof",
+    "College bonafide certificate",
+    "Annual course fee details",
+    "Family income certificate",
+    "Government-issued identity proof",
+    "Bank account details",
+    "Category or special-category certificate, if applicable",
+    "Other supporting documents required by the programme"
+  ],
+  "applicationSteps": [
+    "Visit the official Legrand Empowering Scholarship Program website.",
+    "Select the applicable scholarship category.",
+    "Check the latest eligibility requirements for the 2026-27 cycle.",
+    "Complete the online application form.",
+    "Enter your personal, academic and financial information.",
+    "Upload the required supporting documents.",
+    "Review the application carefully.",
+    "Submit the application before the deadline."
+  ],
+  "tips": [
+    "Check whether you qualify under the general or special category before applying.",
+    "Keep your Class 10 and Class 12 marksheets ready.",
+    "Keep an updated family income certificate available.",
+    "Keep admission and fee-related documents ready.",
+    "If applying under a special category, keep the relevant supporting certificate or documentation ready.",
+    "Submit the application before 7 September 2026.",
+    "Always verify the latest eligibility and application requirements on the official website before submission."
+  ],
+  "officialApplyUrl": "https://legrandscholarship.co.in/",
+  "officialSourceUrl": "https://legrandscholarship.co.in/",
+  "verifiedAt": "18 August 2026"
+},
+{
+  "id": 17,
+  "name": "L&T Build India Scholarship 2026",
+  "provider": "Larsen & Toubro (L&T)",
+  "logo": "assets/lt-build-india.png",
+  "educationLevel": ["UG", "PG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "Full Sponsorship + ₹13,400/month Stipend",
+  "numericAmount": 321600,
+  "deadline": "25 March 2026",
+  "description": "The L&T Build India Scholarship is a fully sponsored programme for eligible final-year Civil and Electrical Engineering students. Selected candidates pursue an M.Tech in Construction Technology & Management at premier institutes and receive tuition support, a monthly stipend and a career opportunity with L&T.",
+  "about": "<p>The L&T Build India Scholarship is a sponsorship programme designed for high-performing final-year engineering students in core Civil Engineering and Electrical Engineering.</p><p>Selected students pursue an M.Tech in Construction Technology & Management (CTaM) at participating premier institutes such as IIT Madras, IIT Delhi, NIT Surathkal and NIT Trichy.</p><p>The programme provides tuition and academic fee sponsorship along with a monthly stipend. Successful completion may lead to employment with L&T, subject to the applicable programme terms.</p><p>The 2026 application cycle is currently closed. The last reported deadline was 25 March 2026.</p>",
+  "eligibility": [
+    "Must be an Indian citizen",
+    "Must be a final-year B.E. or B.Tech. student",
+    "Eligible engineering streams are core Civil Engineering or Electrical Engineering",
+    "Expected graduation year must be 2026 for the 2026 cycle",
+    "Must have a minimum of 70% aggregate marks or 7.0 CGPA out of 10 in engineering",
+    "Must have at least 65% aggregate marks in Class 10 and Class 12 or Diploma",
+    "Must have no past or current backlogs",
+    "All subjects must have been cleared in the first attempt",
+    "Must be maximum 24 years of age as of 1 July 2026",
+    "Must satisfy all additional conditions specified by the L&T Build India Scholarship programme"
+  ],
+  "documents": [
+    "Class 10 marksheet",
+    "Class 12 marksheet or Diploma certificate",
+    "Engineering semester marksheets",
+    "Engineering CGPA or percentage proof",
+    "College bonafide certificate",
+    "Proof of expected graduation",
+    "Government-issued identity proof",
+    "Entrance or academic documents as required",
+    "Other documents requested during the selection process"
+  ],
+  "applicationSteps": [
+    "Visit the L&T Build India Scholarship information or registration portal.",
+    "Check the eligibility requirements for the applicable scholarship cycle.",
+    "Complete the online registration form.",
+    "Provide your academic and personal information.",
+    "Submit the required documents.",
+    "Appear for the online written test covering technical and aptitude areas.",
+    "Attend the personal interview if shortlisted.",
+    "Complete the admission and programme formalities if selected."
+  ],
+  "tips": [
+    "The 2026 application cycle is closed and the deadline was 25 March 2026.",
+    "Check the official L&T EduTech portal for announcements about the next cycle.",
+    "Make sure you meet the engineering percentage and no-backlog requirements.",
+    "Keep all engineering semester marksheets ready.",
+    "Read the sponsorship, employment and post-programme service conditions carefully before accepting an offer.",
+    "Eligibility requirements may change in future scholarship cycles."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/scholarship/l-t-build-india-scholarship",
+  "officialSourceUrl": "https://bis.lntedutech.com/candidate/registration-form",
+  "verifiedAt": "18 August 2026"
+},
+{
+  "id": 18,
+  "name": "National Renewable Energy Internship (NREI) Scheme",
+  "provider": "Ministry of New and Renewable Energy (MNRE), Government of India",
+  "logo": "assets/mnre.png",
+  "educationLevel": ["UG", "PG", "Research"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Government",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "₹15,000 per month",
+  "numericAmount": 15000,
+  "deadline": "Always Open",
+  "description": "The National Renewable Energy Internship (NREI) Scheme is a paid internship programme of the Ministry of New and Renewable Energy (MNRE). It provides eligible students, research scholars and certain renewable-energy professionals with an opportunity to gain practical exposure to renewable energy policy, programmes and related work.",
+  "about": "<p>The National Renewable Energy Internship (NREI) Scheme is offered by the Ministry of New and Renewable Energy, Government of India, to provide practical exposure and professional learning opportunities in the renewable energy sector.</p><p>The programme is open to eligible graduate and postgraduate students from Engineering, Management, Law and Science disciplines, as well as research scholars and eligible professionals working in the renewable energy sector.</p><p>Physical internships are generally conducted at the Ministry headquarters in New Delhi or affiliated organisations. Eligible physical interns receive a stipend of ₹15,000 per month, while virtual internships do not carry a stipend.</p><p>The internship duration is generally between 2 and 6 months and cannot normally be extended or repeated.</p>",
+  "eligibility": [
+    "Must be pursuing a graduate or postgraduate degree in Engineering, Management, Law or Science at a recognized university in India or abroad",
+    "Relevant Science disciplines may include Physics, Chemistry, Energy and Environmental Science",
+    "Research scholars enrolled in doctoral or research programmes may be eligible",
+    "Eligible professionals working in the renewable energy sector may also apply subject to programme conditions",
+    "Applicant must satisfy the academic and other requirements specified by MNRE",
+    "Internship applicants must follow the prescribed application timeline and guidelines"
+  ],
+  "documents": [
+    "Updated resume or CV",
+    "College or university identity card",
+    "Bonafide or enrollment certificate",
+    "Latest academic marksheets",
+    "Research proposal or area of interest, if applicable",
+    "Government-issued identity proof",
+    "Other documents specified in the official application guidelines"
+  ],
+  "applicationSteps": [
+    "Visit the official MNRE Human Resource Development portal.",
+    "Check the latest NREI Scheme guidelines and available internship requirements.",
+    "Prepare the required academic and personal documents.",
+    "Submit the internship application through the prescribed online process.",
+    "Apply at least one month before the expected internship start date.",
+    "Wait for the application to be reviewed and processed.",
+    "Complete the internship and submit the required research report or paper.",
+    "Receive the internship certificate after successful completion."
+  ],
+  "tips": [
+    "The programme generally accepts applications around January and July cycles.",
+    "Apply at least one month before your expected internship start date.",
+    "Physical internships carry a ₹15,000 monthly stipend, while virtual internships do not carry a stipend.",
+    "Check the latest MNRE guidelines before applying because internship conditions can change.",
+    "Keep your bonafide certificate, academic records and CV ready.",
+    "Read the eligibility requirements carefully before submitting your application."
+  ],
+  "officialApplyUrl": "https://hrd.mnre.gov.in/",
+  "officialSourceUrl": "https://mnre.gov.in/en/national-renewable-energy-internship-programme-2/",
+  "verifiedAt": "18 August 2026"
+},
+  {
+    "id": 19,
+    "name": "Dr. Ambedkar Central Sector Scheme of Interest Subsidy on Educational Loan for Overseas Studies",
+    "provider": "Ministry of Social Justice and Empowerment, Government of India",
+    "logo": "assets/dr_ambedkar_scheme.png",
+    "educationLevel": ["PG", "Ph.D."],
+    "location": ["All India"],
+    "state": ["All India"],
+    "type": "Government",
+    "category": ["OBC", "EBC"],
+    "amount": "Interest Subsidy (Up to ₹20,00,000 Loan)",
+    "numericAmount": null,
+    "deadline": "Always open",
+    "description": "<p>This scheme pays the interest on overseas education loans during the study and moratorium period for eligible Other Backward Classes (OBC) and Economically Backward Classes (EBC) students. At least 50% of the budget is reserved for female students.</p>",
+    "eligibility": [
+      "Must secure admission in an approved course abroad at the Master's, M.Phil., or Ph.D. level.",
+      "Must take an education loan from a scheduled bank under the Indian Banks Association (IBA) model scheme.",
+      "OBC Students: Family or individual income must be within the current non-creamy layer limit.",
+      "EBC Students: Family or individual income must not be more than ₹2,50,000 per year."
+    ],
+    "documents": [
+      "Aadhaar card and passport-size photo",
+      "Income certificate (such as ITR, Form 16, or state-issued certificate)",
+      "Valid OBC caste certificate (if applying as OBC)",
+      "Admission offer letter and bonafide certificate from the foreign university",
+      "Bank loan sanction letter"
+    ],
+    "applicationSteps": [
+      "Secure admission to an eligible overseas program.",
+      "Apply for an education loan from an IBA-approved scheduled bank.",
+      "Submit the required documents to the bank branch where the loan was sanctioned to claim the interest subsidy."
+    ],
+    "tips": [
+      "The scheme works on a first-come, first-served basis, so apply early.",
+      "Ensure your loan is from a scheduled bank following the IBA model scheme.",
+      "The subsidy is a one-time benefit for either a Master's degree or a Ph.D."
+    ],
+    "officialApplyUrl": "https://web.umang.gov.in/landing/",
+    "officialSourceUrl": "https://pib.gov.in/",
+    "verifiedAt": "2026-08-18"
+  },
+  {
+    "id": 20,
+    "name": "Central Sector Scheme of Scholarship (CSSS)",
+    "provider": "Department of Higher Education, Government of India",
+    "logo": "assets/central-sch.png",
+    "educationLevel": ["UG", "PG"],
+    "location": ["All India"],
+    "state": ["All India"],
+    "type": "Government",
+    "category": ["All Categories"],
+    "amount": "₹12,000 to ₹20,000 per year",
+    "numericAmount": 12000,
+    "deadline": "31 October 2026",
+    "description": "The Central Sector Scheme of Scholarship (CSSS) provides financial assistance for higher education to meritorious students from low-income families.",
+    "about": "<p>The Central Sector Scheme of Scholarship (CSSS) provides financial assistance for higher education to meritorious students from low-income families. Applications are submitted through the National Scholarship Portal.</p><h4>Scholarship Amounts:</h4><ul><li>Graduation (1st to 3rd year): ₹12,000 per year.</li><li>Professional / Integrated Courses (4th and 5th year): ₹20,000 per year.</li><li>Postgraduate Level: ₹20,000 per year.</li></ul>",
+    "eligibility": [
+      "Academic Merit: Must score above the 80th percentile of successful students in Class 12 from a recognized board.",
+      "Family Income: Annual gross parental income must be ₹4.5 lakh or less.",
+      "Age Limit: Must be between 18 and 25 years of age.",
+      "Course Type: Must study a full-time regular undergraduate or postgraduate degree (distance learning, correspondence, and diplomas are not allowed).",
+      "Other Aid: Cannot accept any other central or state government scholarship or fee reimbursement."
+    ],
+    "documents": [
+      "Class 12 mark sheet",
+      "Income certificate",
+      "Aadhaar card (seeded with your bank account for Direct Benefit Transfer)",
+      "Bank passbook in your name",
+      "Caste or disability certificate (if applicable)"
+    ],
+    "applicationSteps": [
+      "Visit the National Scholarship Portal (https://scholarships.gov.in/).",
+      "Complete the student registration and login.",
+      "Select the Central Sector Scheme of Scholarship (CSSS).",
+      "Fill in the required information and upload your documents.",
+      "Submit the application."
+    ],
+    "tips": [
+      "Make sure your Aadhaar card is seeded with your bank account for Direct Benefit Transfer.",
+      "To renew the scholarship in future years, maintain a minimum of 50% marks in annual exams, at least 75% attendance, and remain enrolled in the same course of study."
+    ],
+    "officialApplyUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://scholarships.gov.in/",
+    "verifiedAt": "18 August 2026"
+  },
+  {
+  "id": 21,
+  "name": "INSPIRE Scholarship for Higher Education (SHE)",
+  "provider": "Department of Science and Technology (DST), Government of India",
+  "logo": "assets/inspire-dst.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "state": ["All India"],
+  "type": "Government",
+  "category": ["General", "OBC", "SC", "ST", "EWS"],
+  "amount": "₹80,000 per year",
+  "numericAmount": 80000,
+  "deadline": "1 December 2026",
+  "description": "The INSPIRE Scholarship for Higher Education (SHE) is offered by the Department of Science and Technology to support meritorious students pursuing undergraduate studies in basic and natural sciences. The scholarship provides financial assistance along with a mentorship grant for eligible students.",
+  "about": "<p>The INSPIRE Scholarship for Higher Education (SHE) is a component of the INSPIRE programme of the Department of Science and Technology, Government of India. It is designed to encourage talented students to pursue higher education and research-oriented careers in basic and natural sciences.</p><p>The scholarship supports eligible students enrolled in regular B.Sc., B.S. or Integrated M.Sc./M.S. programmes in subjects such as Physics, Chemistry, Mathematics and Biology.</p><p>Selected students may receive financial support of up to ₹80,000 per year, including a monthly scholarship component and an annual mentorship grant for a summer research project.</p>",
+  "eligibility": [
+    "Generally must be between 17 and 22 years of age",
+    "Must have performed exceptionally well in Class 12, generally within the top 1% of the respective State or Central Board",
+    "Students meeting specified competitive examination criteria, such as a top rank in JEE or NEET, may also be eligible subject to the applicable INSPIRE rules",
+    "Certain recognized scholars and International Olympiad medalists may qualify under specified INSPIRE eligibility channels",
+    "Must be enrolled in a regular B.Sc., B.S. or Integrated M.Sc./M.S. programme",
+    "The programme must be in basic or natural sciences",
+    "Must satisfy all additional eligibility conditions prescribed by DST for the applicable scholarship cycle"
+  ],
+  "documents": [
+    "Passport-size photograph",
+    "Class 10 marksheet or certificate as proof of date of birth",
+    "Class 12 marksheet",
+    "College admission or enrollment proof",
+    "Endorsement form signed by the Principal, Director or Registrar",
+    "JEE/NEET rank certificate or other qualifying award certificate, if applicable",
+    "Olympiad or recognized scholar certificate, if applicable",
+    "First page of bank passbook or valid bank account details",
+    "Other documents required by the INSPIRE portal"
+  ],
+  "applicationSteps": [
+    "Visit the official INSPIRE online application portal.",
+    "Register or log in to your INSPIRE account.",
+    "Check the eligibility requirements for the current scholarship cycle.",
+    "Fill in your personal, academic and course details.",
+    "Upload the required documents.",
+    "Complete the required endorsement or institutional verification process.",
+    "Review the application carefully.",
+    "Submit the application before the applicable deadline.",
+    "Keep your application details for future reference."
+  ],
+  "tips": [
+    "Check the exact INSPIRE eligibility channel applicable to your academic qualification.",
+    "Make sure your B.Sc., B.S. or Integrated M.Sc./M.S. course falls within the eligible basic and natural science subjects.",
+    "Keep your Class 10 and Class 12 documents ready before starting the application.",
+    "Ensure the required endorsement is completed by the authorized college official.",
+    "Check the official INSPIRE portal for the latest application status and deadline.",
+    "The scholarship is merit-based, so carefully verify the qualifying academic criteria before applying."
+  ],
+  "officialApplyUrl": "https://online-inspire.gov.in/",
+  "officialSourceUrl": "https://dst.gov.in/inspire-scheme-innovation-science-pursuit-inspired-research",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 22,
+  "name": "National Means-cum-Merit Scholarship (NMMS)",
+  "provider": "Ministry of Education, Government of India",
+  "logo": "assets/nmms.png",
+  "educationLevel": ["School"],
+  "location": ["All India"],
+  "type": "Government",
+  "category": ["General", "OBC", "SC", "ST"],
+  "amount": "₹12,000 per year",
+  "deadline": "31 August 2026",
+  "description": "The National Means-cum-Merit Scholarship (NMMS) is a Government of India scholarship scheme that provides financial assistance to meritorious students from economically weaker families to help them continue their secondary education from Class 9 to Class 12.",
+  "eligibility": [
+    "Must be a regular student of Class 8 in a Government, Government-aided, or local body school",
+    "Students of private schools, Kendriya Vidyalayas, Navodaya Vidyalayas, and Sainik Schools are generally not eligible",
+    "Must have secured at least 55% marks in Class 7 examination",
+    "SC/ST students are generally eligible with a minimum of 50% marks",
+    "Annual parental income from all sources must not exceed ₹3.5 lakh",
+    "Must qualify the state-level NMMS selection examination"
+  ],
+  "documents": [
+    "Aadhaar card or valid identity proof",
+    "Class 7 marksheet",
+    "Income certificate",
+    "Caste certificate, if applicable",
+    "Bank account details",
+    "School certificate or bonafide certificate",
+    "Recent passport-size photograph"
+  ],
+  "applicationSteps": [
+    "Check the NMMS notification and eligibility requirements",
+    "Complete the application through the designated National Scholarship Portal or state process",
+    "Upload the required academic, income, caste, and identity documents",
+    "Appear for the state-level NMMS examination",
+    "Students selected through the examination can receive the scholarship from Class 9 onwards"
+  ],
+  "tips": [
+    "Check your state's NMMS examination schedule separately",
+    "Keep the income certificate and school documents ready before applying",
+    "SC/ST students should provide a valid caste certificate where required",
+    "Check the official portal for the latest application and examination updates"
+  ],
+  "officialApplyUrl": "https://www.myscheme.gov.in/schemes/nmmss",
+  "officialSourceUrl": "https://www.myscheme.gov.in/schemes/nmmss",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 23,
+  "name": "AICTE Pragati Scholarship",
+  "provider": "All India Council for Technical Education (AICTE)",
+  "logo": "assets/aicte-pragati.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "type": "Government",
+  "category": ["General", "OBC", "SC", "ST"],
+  "amount": "₹50,000 per year",
+  "deadline": "31 October 2026",
+  "description": "The AICTE Pragati Scholarship supports eligible girl students pursuing technical degree or diploma programmes in AICTE-approved institutions by providing financial assistance for academic expenses.",
+  "eligibility": [
+    "Only female students are eligible",
+    "Must be admitted to the 1st year of a technical degree or diploma programme, or 2nd year through lateral entry",
+    "Must be studying in an AICTE-approved institution",
+    "Annual family income must not exceed ₹8 lakh",
+    "Maximum two girl children per family can avail the scholarship"
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Class 10 and Class 12 or Diploma marksheets",
+    "Income certificate issued by the competent State or UT authority",
+    "College admission letter",
+    "Tuition fee receipt",
+    "Bank passbook details linked with Aadhaar",
+    "Caste certificate, if applicable"
+  ],
+  "applicationSteps": [
+    "Visit the official AICTE Pragati Scholarship information page",
+    "Apply through the National Scholarship Portal when applications are open",
+    "Complete the application form with accurate academic and personal information",
+    "Upload the required documents",
+    "Submit the application before the deadline",
+    "Complete institute verification and subsequent scrutiny"
+  ],
+  "tips": [
+    "Make sure your institution is AICTE-approved",
+    "Keep your income certificate updated",
+    "Verify that your bank account details are correct and linked with Aadhaar where required",
+    "Check the National Scholarship Portal for the latest application status and deadlines",
+    "Complete institute verification within the prescribed timeline"
+  ],
+  "officialApplyUrl": "https://scholarships.gov.in/",
+  "officialSourceUrl": "https://www.aicte.gov.in/schemes/students-development-schemes/Pragati/General-Instructions",
+  "verifiedAt": "19 August 2026"
+}, 
+{
+  "id": 24,
+  "name": "Prime Minister's Scholarship Scheme (PMSS)",
+  "provider": "Kendriya Sainik Board (KSB), Ministry of Defence, Government of India",
+  "logo": "assets/pmss.png",
+  "educationLevel": [
+    "UG",
+    "Professional Degree"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Government",
+  "category": [
+    "Ex-Servicemen Wards",
+    "Armed Forces Wards",
+    "Widows of Ex-Servicemen",
+    "Technical Education",
+    "Professional Education",
+    "Merit Based"
+  ],
+  "amount": "₹30,000 per year for boys; ₹36,000 per year for girls",
+  "deadline": "30 November 2026",
+  "description": "The Prime Minister's Scholarship Scheme (PMSS) provides financial assistance to eligible dependent wards and widows of Ex-Servicemen for higher technical and professional education. The scheme supports eligible students pursuing approved professional degree courses and awards scholarships on the basis of merit and prescribed eligibility conditions.",
+  "eligibility": [
+    "Applicant must be a dependent ward or widow of an eligible Ex-Serviceman or Armed Forces personnel as prescribed under PMSS rules.",
+    "Applicant should be admitted to the first year of an approved professional or technical degree course recognized by the relevant statutory regulatory body.",
+    "The minimum educational qualification generally requires at least 60% marks in the qualifying examination, subject to the applicable PMSS rules and category.",
+    "The applicant must satisfy the applicable service-category, course, admission and merit conditions prescribed by the Kendriya Sainik Board."
+  ],
+  "documents": [
+    "Aadhaar Card of the student",
+    "Class 10 and Class 12 / Diploma / Graduation mark sheets, as applicable",
+    "Admission letter or fee receipt from the recognized institution",
+    "Service Certificate, PPO, Discharge Certificate or other applicable service document of the parent",
+    "Student bank account details linked with Aadhaar"
+  ],
+  "applicationSteps": [
+    "Check the PMSS eligibility conditions and ensure that the parent/service category is covered under the scheme.",
+    "Complete the required registration and scholarship application process through the applicable official portal.",
+    "Enter academic, personal, bank and service-related details accurately and upload the required documents.",
+    "Submit the application and complete the required verification process through the concerned authorities."
+  ],
+  "tips": [
+    "Verify that your professional or technical course and institution satisfy the PMSS recognition requirements before applying.",
+    "Keep the parent's service documents, academic certificates and bank details ready before starting the application.",
+    "Do not rely only on third-party scholarship websites; verify the latest deadline and eligibility on the official government portal before submission."
+  ],
+  "officialApplyUrl": "https://www.ksb.gov.in/application-form.htm",
+  "officialSourceUrl": "https://www.desw.gov.in/prime-ministers-scholarship-scheme-pmss",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 25,
+  "name": "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)",
+  "provider": "Government of Madhya Pradesh",
+  "logo": "assets/mmvy.png",
+  "educationLevel": [
+    "UG",
+    "Professional Degree"
+  ],
+  "location": [
+    "Madhya Pradesh"
+  ],
+  "type": "Government",
+  "category": [
+    "Merit Based",
+    "Income Based",
+    "Engineering",
+    "Medical",
+    "Law",
+    "Professional Education"
+  ],
+  "amount": "100% tuition fee or actual eligible college fee, whichever is less",
+  "deadline": "20 August 2026",
+  "description": "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY) is a Madhya Pradesh Government scheme that provides financial support for eligible meritorious students pursuing higher and professional education. The scheme can cover eligible tuition or actual college fees subject to the applicable course, institution and admission conditions.",
+  "eligibility": [
+    "Applicant must be a resident of Madhya Pradesh and satisfy the domicile requirements of the scheme.",
+    "For MP Board Class 12 students, the qualifying examination requirement is generally at least 70% marks; for CBSE/ICSE students, the requirement is generally at least 85% marks.",
+    "Annual family income must generally be within the prescribed income limit of ₹6 lakh, subject to applicable government rules and category-specific provisions.",
+    "For engineering admissions through JEE Main, the applicant must satisfy the prescribed JEE Main rank requirement, including the applicable rank limit of under 1,50,000 where specified.",
+    "Medical, law and other professional-course applicants must satisfy the applicable entrance examination, institution and admission conditions prescribed under MMVY.",
+    "The course and institution must be covered under the MMVY eligibility rules."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Madhya Pradesh domicile/residence certificate",
+    "Class 10 and Class 12 mark sheets",
+    "Family income certificate",
+    "Entrance examination scorecard/rank certificate, where applicable",
+    "Admission letter or fee receipt from the eligible institution",
+    "Student bank account details",
+    "Other documents prescribed by the Madhya Pradesh scholarship portal"
+  ],
+  "applicationSteps": [
+    "Visit the official Madhya Pradesh Medhavi Kalyan Portal and access the MMVY application section.",
+    "Register or log in using the required student credentials and enter personal, academic, income and admission details.",
+    "Upload the required certificates and supporting documents.",
+    "Submit the application and complete verification through the concerned institution and government authorities."
+  ],
+  "tips": [
+    "Check the eligible course and institution list before relying on MMVY fee coverage.",
+    "Keep your income certificate and MP domicile documents current and consistent with the details entered in the application.",
+    "Engineering applicants should carefully verify the applicable JEE Main rank condition for their admission year.",
+    "Submit the application before the deadline and retain the application number and submitted documents for future reference."
+  ],
+  "officialApplyUrl": "https://www.medhavikalyan.mp.gov.in/MMVY.aspx",
+  "officialSourceUrl": "https://medhavikalyan.mp.gov.in/",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 26,
+  "name": "Post Matric Scholarship for SC, ST and OBC Students, Madhya Pradesh",
+  "provider": "Government of Madhya Pradesh",
+  "logo": "assets/mp-post-matric1.png",
+  "educationLevel": [
+    "UG",
+    "PG",
+    "Diploma",
+    "Professional Degree"
+  ],
+  "location": [
+    "Madhya Pradesh"
+  ],
+  "type": "Government",
+  "category": [
+    "SC",
+    "ST",
+    "OBC",
+    "Post Matric",
+    "Income Based",
+    "Higher Education"
+  ],
+  "amount": "upto ₹230–₹1,500",
+  "deadline": "31 october 2026",
+  "description": "The Post Matric Scholarship schemes of Madhya Pradesh provide financial assistance to eligible SC, ST and OBC students pursuing education after Class 12. Benefits may include reimbursement of eligible tuition or compulsory non-refundable fees and maintenance assistance, subject to category, family income, course, institution and other applicable government conditions.",
+  "eligibility": [
+    "Applicant must belong to the SC, ST or OBC category and be a resident of Madhya Pradesh as required under the applicable state scholarship rules.",
+    "The applicant must be pursuing an eligible post-matric course after Class 12 in a recognized institution.",
+    "For SC and ST students, annual family income from all sources must generally be below ₹6,00,000.",
+    "For OBC students, family income up to ₹3,00,000 may qualify for full eligible scholarship benefits, while income between ₹3,00,000 and ₹6,00,000 may qualify for partial benefits, subject to applicable rules.",
+    "The course, institution, admission status and other academic conditions must satisfy the applicable Madhya Pradesh Post Matric Scholarship requirements.",
+    "Students must provide valid caste, income, domicile and academic documents during the verification process."
+  ],
+  "documents": [
+    "Aadhaar Card",
+    "Madhya Pradesh domicile/residence certificate",
+    "Valid SC/ST/OBC caste certificate",
+    "Family income certificate",
+    "Class 10 and Class 12 mark sheets",
+    "Current course admission proof or fee receipt",
+    "Student bank account details",
+    "Previous examination mark sheet, where applicable",
+    "Other documents prescribed by the concerned Madhya Pradesh scholarship portal"
+  ],
+  "applicationSteps": [
+    "Identify the applicable portal based on your category: MPTAAS for eligible SC/ST applicants or the Madhya Pradesh State Scholarship Portal for eligible OBC applicants.",
+    "Register or log in and enter personal, academic, category, income and institution details.",
+    "Upload the required caste, income, domicile, academic and admission documents.",
+    "Submit the application and complete institutional and departmental verification.",
+    "Track the application and scholarship status through the relevant state portal."
+  ],
+  "tips": [
+    "Select the scholarship scheme matching your exact caste category and course before submitting the application.",
+    "Make sure the name, date of birth and other details are consistent across Aadhaar, caste, income and academic documents.",
+    "Keep your income and caste certificates valid and updated before application.",
+    "Check the state portal regularly because ongoing applications can still have institution-level verification or correction deadlines.",
+    "Do not confuse the Madhya Pradesh state Post Matric Scholarship with similarly named central schemes available through the National Scholarship Portal."
+  ],
+  "officialApplyUrl": "https://tribal.mp.gov.in/MPTAAS",
+  "officialSourceUrl": "https://scholarships.gov.in/",
+  "verifiedAt": "19 August 2026"
+}, 
+{
+  "id": 27,
+  "name": "Gaon Ki Beti Scholarship",
+  "provider": "Government of Madhya Pradesh",
+  "logo": "assets/mmvy.png",
+  "educationLevel": [
+    "UG",
+    "Professional Degree",
+    "Technical Education",
+    "Medical Education"
+  ],
+  "location": [
+    "Madhya Pradesh"
+  ],
+  "type": "Government",
+  "category": [
+    "Girls",
+    "Rural Students",
+    "Merit Based",
+    "Higher Education"
+  ],
+  "amount": "₹5,000 per year for general courses; ₹7,500 per year for technical and medical courses",
+  "deadline": "15 August 2026",
+  "description": "Gaon Ki Beti Scholarship is a Madhya Pradesh Government scholarship scheme designed to support meritorious female students from rural areas who continue their higher education after Class 12. Eligible students receive annual financial assistance based on their course of study.",
+  "eligibility": [
+    "Applicant must be a female student and a permanent resident of Madhya Pradesh.",
+    "Applicant must belong to a rural village area of Madhya Pradesh and possess the required Gaon Ki Beti or rural area certificate.",
+    "Applicant must have secured at least 60% marks in the Class 12 board examination.",
+    "Applicant must be enrolled in a recognized college, university or eligible higher-education institution.",
+    "The applicant must satisfy the applicable Madhya Pradesh scholarship rules and institutional requirements.",
+    "For higher scholarship benefits, the course must fall within the eligible technical or medical categories prescribed by the scheme."
+  ],
+  "documents": [
+    "Class 12 mark sheet",
+    "Gaon Ki Beti certificate",
+    "Samagra ID",
+    "Aadhaar Card",
+    "Parent's income certificate",
+    "Madhya Pradesh domicile or residence certificate",
+    "Aadhaar-linked bank passbook or bank account details",
+    "Current college code and branch/course code"
+  ],
+  "applicationSteps": [
+    "Visit the Madhya Pradesh Higher Education scholarship portal.",
+    "Register or log in using the required student credentials and select the Gaon Ki Beti scholarship.",
+    "Enter personal, academic, rural-residence, college and bank details.",
+    "Upload the required certificates and supporting documents.",
+    "Submit the application and complete verification through the concerned college and department."
+  ],
+  "tips": [
+    "Obtain and verify the Gaon Ki Beti certificate before starting the application.",
+    "Make sure your college code and branch/course code are entered correctly.",
+    "Keep your Aadhaar-linked bank account active because scholarship payments are transferred through the applicable payment system.",
+    "Check the Madhya Pradesh scholarship portal for application, correction and verification dates because portal schedules can change.",
+    "Verify the applicable course category before assuming that the ₹7,500 technical/medical benefit applies to your course."
+  ],
+  "officialApplyUrl": "https://highereducation.mp.gov.in/?leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D&page=a%2Fl6c0hzsecoQ0GSYBnewA%3D%3D",
+  "officialSourceUrl": "https://www.myscheme.gov.in/schemes/gkb",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 28,
+  "name": "Vikramaditya Nishulk Shiksha Yojana",
+  "provider": "Government of Madhya Pradesh",
+  "logo": "assets/mmvy.png",
+  "educationLevel": [
+    "UG",
+    "Graduation"
+  ],
+  "location": [
+    "Madhya Pradesh"
+  ],
+  "type": "Government",
+  "category": [
+    "General Category",
+    "Economically Weaker Students",
+    "Merit Based",
+    "Fee Assistance"
+  ],
+  "amount": "Tuition fee assistance or reimbursement of up to ₹2,500 per year",
+  "deadline": "Varies; check MP Scholarship Portal for current institutional verification deadline",
+  "description": "The Vikramaditya Nishulk Shiksha Yojana is a Government of Madhya Pradesh fee-assistance scheme for economically disadvantaged students belonging to the General category who pursue eligible undergraduate studies. The scheme provides tuition fee assistance subject to prescribed income, academic, course and institution conditions.",
+  "eligibility": [
+    "Applicant must be a permanent resident of Madhya Pradesh.",
+    "Applicant must belong to the General category.",
+    "Applicant must have secured at least 60% marks in the Class 12 examination.",
+    "For undergraduate graduation courses, annual family income must generally not exceed ₹54,000.",
+    "Applicant must be enrolled in an eligible regular undergraduate course at a recognized government or government-aided college in Madhya Pradesh.",
+    "The applicant must satisfy the applicable course, institution, income and documentation requirements prescribed by the Madhya Pradesh Government."
+  ],
+  "documents": [
+    "Aadhaar Card linked with a mobile number",
+    "Samagra ID",
+    "Current-year family income certificate",
+    "Class 12 mark sheet showing the required marks",
+    "Madhya Pradesh domicile certificate",
+    "Current-year college admission letter or fee receipt",
+    "Bank passbook or bank account details for DBT",
+    "Other documents required by the MP Scholarship Portal"
+  ],
+  "applicationSteps": [
+    "Visit the official Madhya Pradesh Scholarship Portal and access the applicable Vikramaditya scholarship application.",
+    "Register or log in and complete the student's personal, academic, income and college information.",
+    "Upload the required Aadhaar, Samagra, income, domicile, academic and admission documents.",
+    "Complete the required e-KYC and bank/DBT details.",
+    "Submit the application and complete institutional verification through the concerned college."
+  ],
+  "tips": [
+    "Keep a current-year income certificate ready before applying.",
+    "Complete e-KYC and ensure that Aadhaar and bank details are correctly linked for DBT.",
+    "Check the portal for the latest institutional verification and correction deadlines because these can differ from the student application window.",
+    "Confirm that your college and undergraduate course are covered before submitting the application.",
+    "Do not assume that the ₹2,500 amount applies identically to every course; verify the applicable benefit under the current scheme rules."
+  ],
+  "officialApplyUrl": "https://www.myscheme.gov.in/schemes/vay",
+  "officialSourceUrl": "https://www.myscheme.gov.in/schemes/vay",
+  "verifiedAt": "19 August 2026"
+},
+{
+  "id": 29,
+  "name": "Santoor Scholarship Program",
+  "provider": "Wipro Consumer Care and Lighting Group & Wipro Cares",
+  "logo": "assets/santoor-scholarship.png",
+  "educationLevel": ["UG"],
+  "location": ["Andhra Pradesh", "Maharashtra"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST"],
+  "amount": "₹30,000",
+  "deadline": "Coming Soon",
+  "description": "The Santoor Scholarship Program provides financial support to young women from underprivileged backgrounds pursuing full-time undergraduate education.",
+  "eligibility": [
+    "Only female students are eligible",
+    "Must be enrolled in the first year of a full-time undergraduate degree",
+    "Must have passed Class 10 from a local government school",
+    "Must have passed Class 12 from a government school or junior college",
+    "Eligible states include Andhra Pradesh and Maharashtra for recent programme cycles",
+    "Children of employees of Wipro, Santoor, or Buddy4Study are not eligible"
+  ],
+  "documents": [
+    "Passport-size photograph",
+    "Class 10 marksheet",
+    "Class 12 marksheet",
+    "College admission letter or student ID",
+    "Address proof",
+    "Identity proof"
+  ],
+  "applicationSteps": [
+    "Visit the official Santoor Scholarship application page",
+    "Register or log in to the application portal",
+    "Complete the scholarship application form",
+    "Upload the required documents",
+    "Review the application details",
+    "Submit the application before the announced deadline"
+  ],
+  "tips": [
+    "Check the latest eligibility criteria before applying",
+    "Keep Class 10 and Class 12 documents ready",
+    "Keep valid college admission proof available",
+    "Check the official portal for the current application deadline",
+    "Verify that the applicant's state is covered in the current cycle"
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/santoor-scholarship-programme",
+  "officialSourceUrl": "https://www.buddy4study.com/page/santoor-scholarship-programme",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 30,
+  "name": "Panasonic Ratti Chhatr Scholarship",
+  "provider": "Panasonic Life Solutions India (PLSIND)",
+  "logo": "assets/panasonic-ratti-chhatr.png",
+  "educationLevel": ["UG"],
+  "location": ["All India"],
+  "type": "Private",
+  "category": ["General", "OBC", "SC", "ST"],
+  "amount": "₹70,250 per year",
+  "deadline": "20 August 2026",
+  "description": "The Panasonic Ratti Chhatr Scholarship provides financial assistance to first-year B.E./B.Tech students admitted to Indian Institutes of Technology (IITs), with a focus on supporting students from low-income families.",
+  "eligibility": [
+    "Must be a first-year B.E./B.Tech student enrolled at an Indian Institute of Technology (IIT)",
+    "Must have scored more than 75% marks in Class 12",
+    "Annual family income must not exceed ₹8 lakh",
+    "Preference may be given to Persons with Disabilities (PwD)",
+    "Must meet the scholarship programme's current admission and academic requirements"
+  ],
+  "documents": [
+    "Class 12 marksheet",
+    "Government-issued identity proof",
+    "Official IIT admission letter",
+    "First-semester fee receipt",
+    "Income proof such as income certificate or Form 16A",
+    "Student bank account details"
+  ],
+  "applicationSteps": [
+    "Visit the official scholarship application page",
+    "Register or log in to the application portal",
+    "Complete the scholarship application form",
+    "Enter academic, admission, family income and personal details",
+    "Upload the required documents",
+    "Review the application carefully",
+    "Submit the application before the deadline"
+  ],
+  "tips": [
+    "Keep the IIT admission letter and first-semester fee receipt ready",
+    "Make sure the income proof is valid and up to date",
+    "Check that the bank account details belong to the student",
+    "Verify the latest eligibility criteria before submitting the application",
+    "Submit the application before the announced deadline"
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/ratti-chhatr-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/ratti-chhatr-scholarship",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 31,
+  "name": "IET India Scholarship Award 2026",
+  "provider": "Institution of Engineering and Technology (IET) India",
+  "logo": "assets/iet-india-scholarship.png",
+  "educationLevel": [
+    "UG",
+    "Engineering"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "All Categories"
+  ],
+  "amount": "upto ₹6,00,000 ",
+  "deadline": "5 July 2026",
+  "description": "The IET India Scholarship Award is a national-level competition for full-time undergraduate engineering students studying in AICTE/UGC-approved institutions across India. The award recognizes engineering students for academic performance, technical knowledge and overall excellence through online tests, regional rounds and a national final. ₹6,00,000 for National Winner; ₹3,00,000 for National 1st Runner-up; ₹2,00,000 for National 2nd Runner-up; Regional Winner ₹1,00,000; Regional Runner-up ₹75,000",
+  "eligibility": [
+    "Applicant must be a full-time undergraduate engineering student in the 1st, 2nd, 3rd or 4th year of an eligible engineering programme.",
+    "Applicant must be studying at an AICTE/UGC-approved college or institution in India.",
+    "Applicant must have secured a minimum aggregate of 60% marks or 6.0 CGPA on a 10-point scale.",
+    "Applicant must have cleared all credit courses in a single attempt and must not have any active backlogs.",
+    "There is no prescribed age limit for participation.",
+    "IET members may receive additional application weightage as specified in the award rules."
+  ],
+  "documents": [
+    "College identity card or valid student identification",
+    "Academic mark sheets or transcript",
+    "Proof of current engineering-course enrollment",
+    "CGPA/percentage proof",
+    "College/institution details",
+    "IET membership details, if applicable",
+    "Other documents requested during the application or verification process"
+  ],
+  "applicationSteps": [
+    "Visit the official IET India Scholarship Award portal.",
+    "Register and complete the online application with personal, academic and institution details.",
+    "Upload or provide the required academic and student verification information.",
+    "Complete the online test if shortlisted or eligible for the assessment stage.",
+    "Participate in the regional round and, if selected, proceed to the national final."
+  ],
+  "tips": [
+    "This is a competition-based award rather than a conventional fee-reimbursement scholarship, so prepare for the assessment stages carefully.",
+    "Maintain accurate academic records because eligibility includes both minimum academic performance and backlog requirements.",
+    "Check the official award rules for the current year's test format, regional-round schedule and scoring criteria.",
+    "IET membership can provide additional application weightage where applicable, but verify the exact rules before relying on it.",
+    "The 2026 application cycle closed on 5 July 2026, so students should monitor the official portal for the next cycle."
+  ],
+  "officialApplyUrl": "http://scholarships.theietevents.com/#!",
+  "officialSourceUrl": "https://scholarships.theietevents.com/",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 32,
+  "name": "U-GO Scholarship Program",
+  "provider": "U-GO",
+  "logo": "assets/u-go-scholarship.png",
+  "educationLevel": [
+    "UG",
+    "Professional Degree",
+    "Engineering",
+    "Medical",
+    "Law",
+    "Architecture"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Merit Based",
+    "Income Based",
+    "Professional Education",
+    "Technical Education"
+  ],
+  "amount": "₹40,000–₹60,000 per year depending on course",
+  "deadline": "20 August 2026",
+  "description": "The U-GO Scholarship Program provides financial assistance to talented young women from low-income families pursuing eligible undergraduate and professional degree courses in India. The scholarship supports education-related expenses for selected students and the award amount varies according to the course.",
+  "eligibility": [
+    "Applicant must be a female student.",
+    "Applicant must be enrolled in an eligible undergraduate or professional degree course at a recognized institution in India.",
+    "Students from any year may be eligible except those studying in the final year, subject to the applicable program rules.",
+    "Applicant must have secured at least 70% marks in both Class 10 and Class 12 examinations.",
+    "Total annual family income must be less than ₹5,00,000.",
+    "Eligible courses may include teaching, nursing, pharmacy, BCA, B.Sc. and other professional/technical courses such as engineering, MBBS, BDS, law and architecture."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Government-issued photo ID such as Aadhaar Card, Voter ID, PAN Card or Driving Licence",
+    "Class 10 mark sheet and passing certificate",
+    "Class 12 mark sheet and passing certificate",
+    "Current-year admission proof such as fee receipt, admission letter or bonafide certificate",
+    "Family income proof such as income certificate, Form 16 or ITR",
+    "Academic expense or fee payment receipts",
+    "Student bank account details such as bank passbook or cancelled cheque"
+  ],
+  "applicationSteps": [
+    "Visit the official U-GO Scholarship application page on Buddy4Study.",
+    "Register or log in and complete the scholarship application with personal, academic, course and family-income details.",
+    "Upload the required identity, academic, admission, income and bank documents.",
+    "Review the application carefully and submit it before the deadline.",
+    "Complete any further verification or selection process requested by the scholarship provider."
+  ],
+  "tips": [
+    "Make sure the applicant's Class 10 and Class 12 marks both meet the minimum requirement.",
+    "Keep current-year admission proof and fee receipts ready before starting the application.",
+    "Use an income document that clearly establishes the family's annual income.",
+    "Check the applicable award amount for the exact course because professional and technical courses may receive a higher amount.",
+    "Submit the application before 20 August 2026 and retain the application reference for future tracking."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/ugo-scholarship-program#singleScApply",
+  "officialSourceUrl": "https://www.buddy4study.com/page/ugo-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 33,
+  "name": "Aditya Birla Capital Scholarship",
+  "provider": "Aditya Birla Capital Foundation (ABCF)",
+  "logo": "assets/aditya-birla-capital.png",
+  "educationLevel": [
+    "Secondary",
+    "Higher Secondary",
+    "UG",
+    "PG",
+    "Professional Degree"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Merit Based",
+    "Income Based",
+    "School Students",
+    "Undergraduate",
+    "Postgraduate",
+    "Professional Education"
+  ],
+  "amount": "Up to ₹60,000 depending on education level and applicable scholarship category",
+  "deadline": "2026-27 deadline not announced; recent cycles typically close around December",
+  "description": "The Aditya Birla Capital Scholarship provides financial assistance to meritorious and underserved students in India across different levels of education. The program covers eligible school students, undergraduate students pursuing general or professional degrees, and postgraduate/professional students, with eligibility and scholarship amounts varying by education level and applicable category.",
+  "eligibility": [
+    "Applicant must be studying in an eligible school, undergraduate or postgraduate/professional program covered by the scholarship.",
+    "Applicant must have secured at least 60% marks in the previous academic year or qualifying examination, subject to the applicable scholarship category.",
+    "Annual family income must generally not exceed ₹6,00,000 from all sources.",
+    "The scholarship primarily supports female students from low-income families, while specific categories may have additional merit or institution-based eligibility conditions.",
+    "Applicant must be enrolled in a recognized institution and satisfy the applicable course, academic and admission requirements.",
+    "For premier-institution or professional categories, additional institution-specific eligibility criteria may apply."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Previous qualifying examination mark sheet",
+    "Valid government-issued identity proof such as Aadhaar Card, Voter ID, PAN Card or Driving Licence",
+    "Current-year admission proof such as fee receipt, admission letter, bonafide certificate or student ID card",
+    "Family income proof such as certificate from the competent authority, salary slips or ITR",
+    "Student or parent bank account details"
+  ],
+  "applicationSteps": [
+    "Visit the official scholarship application page and check the currently active Aditya Birla Capital Scholarship category.",
+    "Register or log in and provide personal, academic, family-income and current admission details.",
+    "Upload the required identity, academic, admission, income and bank documents.",
+    "Review the information and submit the scholarship application before the announced deadline.",
+    "Complete any verification or selection process required by the scholarship provider."
+  ],
+  "tips": [
+    "Check the exact education-level category before applying because eligibility and scholarship amounts differ by level.",
+    "Keep a valid income certificate or other accepted income proof ready.",
+    "Do not confuse the Aditya Birla Capital Scholarship with the separate Aditya Birla Group Scholars programme for premier institutions.",
+    "The 2026-27 application deadline has not been officially announced in the information provided, so do not display a fixed December deadline as confirmed.",
+    "Check the official scholarship page regularly for the 2026-27 application opening and closing dates."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/aditya-birla-capital-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/aditya-birla-capital-scholarship",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 34,
+  "name": "Dr. Reddy's Foundation Sashakt Scholarship",
+  "provider": "Dr. Reddy's Foundation",
+  "logo": "assets/dr-reddys-sashakt.png",
+  "educationLevel": [
+    "UG",
+    "Engineering",
+    "Medical",
+    "Science"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Merit Based",
+    "Income Based",
+    "Science",
+    "Engineering",
+    "Medical",
+    "Mentorship"
+  ],
+  "amount": "₹2,40,000 total over 3 years(₹80,000 per year)",
+  "deadline": "30 October 2026",
+  "description": "The Dr. Reddy's Foundation Sashakt Scholarship supports academically talented young Indian women pursuing undergraduate studies in B.Sc. (Pure/Natural Sciences), B.Tech. or MBBS at eligible premier Indian institutions. Along with financial assistance, selected scholars receive mentorship and guidance intended to support their academic and scientific development.",
+  "eligibility": [
+    "Applicant must be a female Indian citizen who has recently completed Class 12.",
+    "Applicant must have secured admission to an eligible undergraduate B.Sc. (Pure/Natural Sciences), B.Tech. or MBBS programme at a listed premier Indian institution.",
+    "Applicant must demonstrate strong academic performance and satisfy the academic requirements specified by the scholarship programme.",
+    "Preference may be given to students from rural areas and low-income households, particularly applicants with annual family income below ₹5,00,000.",
+    "Students interested in scientific research may receive preference during selection.",
+    "Applicants must satisfy the programme's institution, course, admission and other selection requirements."
+  ],
+  "documents": [
+    "Class 10 certificate or mark sheet",
+    "Class 12 mark sheet",
+    "Admission letter or other proof of admission to the eligible institution",
+    "Family income certificate, where applicable",
+    "Disability certificate, where applicable",
+    "Other academic or identity documents requested during the application process"
+  ],
+  "applicationSteps": [
+    "Visit the official Dr. Reddy's Foundation Sashakt Scholarship website.",
+    "Review the eligible courses and participating premier institutions.",
+    "Register and complete the online application with personal, academic and admission details.",
+    "Upload the required academic, income, admission and applicable supporting documents.",
+    "Submit the application with confirmed admission information before the deadline.",
+    "Participate in the scholarship selection and verification process if shortlisted."
+  ],
+  "tips": [
+    "Confirm that the college and exact undergraduate course are included in the programme's eligible institution list before applying.",
+    "Admission to an eligible institution is an important requirement, so keep the admission offer or confirmation document ready.",
+    "If claiming preference based on family income, keep a valid income certificate available.",
+    "Read the current selection criteria carefully because preference categories do not necessarily guarantee selection.",
+    "The scholarship also provides mentorship, so students interested in science and research should highlight relevant academic interests or activities where the application permits."
+  ],
+  "officialApplyUrl": "https://sashaktscholarship.org/",
+  "officialSourceUrl": "https://sashaktscholarship.org/",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 35,
+  "name": "Glow & Lovely Careers Scholarship",
+  "provider": "Glow & Lovely",
+  "logo": "assets/glow-and-lovely.png",
+  "educationLevel": [
+    "UG",
+    "PG",
+    "Professional Coaching"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Merit Based",
+    "Income Based",
+    "Higher Education",
+    "Career Development"
+  ],
+  "amount": "₹25,000–₹1,00,000 depending on the applicable programme",
+  "deadline": "31 December 2026",
+  "description": "The Glow & Lovely Careers Scholarship, formerly known as the Fair & Lovely Foundation Scholarship, provides financial assistance to Indian women pursuing higher education or recognised professional coaching programmes. Support may be used toward eligible education expenses, while the programme may also provide career guidance, skills development and training opportunities.",
+  "eligibility": [
+    "Applicant must be an Indian female student.",
+    "Applicant must generally be between 15 and 30 years of age.",
+    "Applicant must have secured at least 60% marks in both Class 10 and Class 12 examinations.",
+    "Annual family income must generally not exceed ₹6,00,000.",
+    "Applicant must be enrolled in or seeking admission to an eligible undergraduate, postgraduate or recognised professional coaching programme in India.",
+    "Eligible coaching areas may include civil services, banking, CA/CS, management and other recognised professional career programmes.",
+    "The applicant's institution or coaching programme must satisfy the applicable recognition and programme requirements."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Government-issued identity proof such as Aadhaar Card, Voter ID or PAN Card",
+    "Class 10 mark sheet",
+    "Class 12 mark sheet",
+    "Family income certificate or other accepted income proof",
+    "Admission proof or current college/coaching fee receipt",
+    "Applicant's bank passbook or bank account details"
+  ],
+  "applicationSteps": [
+    "Visit the designated official or authorised scholarship application portal when the application window opens.",
+    "Register and complete the application with personal, academic, family-income and course details.",
+    "Upload the required identity, academic, income, admission and bank documents.",
+    "Review and submit the application before the applicable deadline.",
+    "Shortlisted applicants may be required to participate in a telephonic or online interview before final selection."
+  ],
+  "tips": [
+    "The 2026-27 deadline is currently described as tentative, so verify the live deadline before submitting the application.",
+    "Keep both Class 10 and Class 12 mark sheets ready because the minimum academic requirement applies to both.",
+    "Use valid income documentation that clearly establishes the family's annual income.",
+    "Check whether the exact degree or coaching programme is covered before applying.",
+    "Monitor the application portal from October onward because the upcoming cycle is expected to open around mid-October 2026."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/glow-and-lovely-career-foundation-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/glow-and-lovely-career-foundation-scholarship",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 36,
+  "name": "IDFC FIRST Bank Engineering Scholarship Programme",
+  "provider": "IDFC FIRST Bank",
+  "logo": "assets/idfc-first-bank.png",
+  "educationLevel": [
+    "UG",
+    "Engineering"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Engineering",
+    "Merit Based",
+    "Income Based",
+    "Professional Education"
+  ],
+  "amount": "Up to ₹1,00,000 per year or actual tuition fee, whichever is lower; up to ₹4,00,000 over 4 years",
+  "deadline": "20 September 2026",
+  "description": "The IDFC FIRST Bank Engineering Scholarship Programme provides financial assistance to first-year, full-time B.E. and B.Tech students from low-income families studying at eligible engineering institutions in India. Selected students can receive up to ₹1,00,000 per year or the actual tuition fee, whichever is lower, for up to four years, subject to renewal conditions.",
+  "eligibility": [
+    "Applicant must be an Indian citizen.",
+    "Applicant must be admitted to the first year of a full-time B.E. or B.Tech degree programme.",
+    "The applicant's institution must be included in the official IDFC FIRST Bank eligible colleges list.",
+    "Annual family income must not exceed ₹6,00,000.",
+    "Diploma, part-time and distance-learning engineering programmes are not eligible.",
+    "Applicant must not be receiving another tuition-fee waiver or scholarship.",
+    "Employees of IDFC FIRST Bank, partner organisations and their immediate family members are not eligible.",
+    "Scholarship renewal for subsequent years is subject to fulfilling the programme's academic and other renewal conditions."
+  ],
+  "documents": [
+    "Aadhaar Card or birth certificate as proof of identity",
+    "College admission letter or official admission proof",
+    "Current college tuition fee receipt",
+    "Government-issued family income certificate such as one issued by a Tehsildar or Magistrate",
+    "ITR acknowledgement under Section 143(1), where applicable",
+    "Disability certificate, where applicable",
+    "Other documents required during the scholarship verification process"
+  ],
+  "applicationSteps": [
+    "Check the official IDFC FIRST Bank eligible colleges list and confirm that your institution is covered.",
+    "Visit the official IDFC FIRST Bank scholarship information page or authorised application platform.",
+    "Register and complete the application with personal, academic, admission and family-income details.",
+    "Upload the required identity, admission, fee and income documents.",
+    "Review the application carefully and submit it before 20 September 2026.",
+    "Complete document verification and any further selection process required by the programme."
+  ],
+  "tips": [
+    "Check the eligible college list before spending time on the application because institution eligibility is a core requirement.",
+    "The scholarship covers tuition fees only up to ₹1,00,000 per year or the actual tuition fee, whichever is lower.",
+    "Do not claim this scholarship if already receiving another tuition-fee waiver or scholarship.",
+    "Keep an official income certificate or acceptable ITR acknowledgement ready before applying.",
+    "For renewal, maintain the required academic performance and satisfy the programme's yearly renewal conditions."
+  ],
+  "officialApplyUrl": "https://www.idfcfirst.bank.in/csr-activities/educational-initiatives/engineering-scholarship-program",
+  "officialSourceUrl": "https://www.idfcfirst.bank.in/csr-activities/educational-initiatives/engineering-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 37,
+  "name": "Azim Premji Scholarship 2026-27",
+  "provider": "Azim Premji Foundation",
+  "logo": "assets/azim-premji-foundation.png",
+  "educationLevel": [
+    "UG",
+    "Diploma"
+  ],
+  "location": [
+    "Madhya Pradesh",
+    "Andhra Pradesh",
+    "Bihar",
+    "Delhi",
+    "Jharkhand",
+    "Karnataka",
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Other Eligible States/UTs"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Need Based",
+    "First Generation Higher Education",
+    "Undergraduate",
+    "Diploma"
+  ],
+  "amount": "₹30,000 per year for the full duration of the eligible course (2–5 years)",
+  "deadline": "31 August 2026",
+  "description": "The Azim Premji Scholarship supports young women from disadvantaged backgrounds who are entering their first undergraduate degree or eligible diploma course. The scholarship provides ₹30,000 annually for the complete duration of the eligible course and is designed around need and eligibility rather than high academic merit.",
+  "eligibility": [
+    "Applicant must be a female student.",
+    "Applicant must be admitted to the first year of a regular undergraduate degree or eligible diploma course with a duration of 2 to 5 years.",
+    "The programme must be the applicant's first undergraduate degree.",
+    "Applicant must have passed Class 10 and Class 12 as a regular student from an eligible government school or college, as specified by the scholarship rules.",
+    "Applicant must belong to one of the states or Union Territories covered by the scholarship programme, including Madhya Pradesh.",
+    "Applicant must satisfy the scholarship's disadvantaged-background and other eligibility conditions.",
+    "Selection is primarily based on need and eligibility rather than simply on obtaining high academic marks."
+  ],
+  "documents": [
+    "Aadhaar Card or other accepted identity document",
+    "Class 10 mark sheet/certificate",
+    "Class 12 mark sheet/certificate",
+    "Current-year admission proof or admission letter",
+    "Proof of first-year enrollment in the eligible degree or diploma course",
+    "Bank account details",
+    "Other documents requested by the Azim Premji Foundation during verification"
+  ],
+  "applicationSteps": [
+    "Visit the official Azim Premji Foundation scholarship application portal.",
+    "Register using a valid mobile number and complete OTP verification.",
+    "Fill in personal, schooling, course, admission and other required details.",
+    "Upload the required identity, academic and admission documents.",
+    "Review the application carefully and submit it before the Round 1 deadline.",
+    "Complete any verification process requested by the Foundation."
+  ],
+  "tips": [
+    "Apply through the official Azim Premji Foundation portal only; the application is free.",
+    "Confirm that the degree or diploma is your first undergraduate qualification before applying.",
+    "Keep admission proof ready because first-year admission is a key eligibility requirement.",
+    "Do not assume that a high Class 12 percentage is the primary selection factor; the scholarship emphasizes need and eligibility.",
+    "For the 2026-27 cohort, Round 1 closes on 31 August 2026. A second application round is anticipated in January 2027, but its dates should be verified when officially announced."
+  ],
+  "officialApplyUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/applications/",
+  "officialSourceUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 38,
+  "name": "JK Tyre Shiksha Sarthi Scholarship Program",
+  "provider": "JK Tyre & Industries Ltd.",
+  "logo": "assets/jk-tyre-shiksha-sarthi.png",
+  "educationLevel": [
+    "UG",
+    "Diploma"
+  ],
+  "location": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Uttarakhand",
+    "Karnataka",
+    "Tamil Nadu"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "Children of Commercial Drivers",
+    "Income Based",
+    "Merit Based",
+    "Higher Education"
+  ],
+  "amount": "Up to ₹25,000 per year",
+  "deadline": "10 September 2026",
+  "description": "The JK Tyre Shiksha Sarthi Scholarship Program supports the higher education of female students who are daughters of heavy-vehicle or commercial drivers. Eligible students pursuing undergraduate or diploma programmes in selected Indian states can receive financial assistance, with renewal available subject to the programme's academic conditions.",
+  "eligibility": [
+    "Applicant must be a female student.",
+    "Applicant must be the daughter of a heavy-vehicle or commercial-vehicle driver.",
+    "Applicant must be enrolled in an eligible undergraduate degree or diploma programme.",
+    "Applicant must have secured at least 55% marks in the previous academic year or examination.",
+    "Total annual family income must generally not exceed ₹5,00,000.",
+    "Applicant must be a resident of Madhya Pradesh, Rajasthan, Uttarakhand, Karnataka or Tamil Nadu.",
+    "The applicant must satisfy the applicable admission, course and documentation requirements of the scholarship programme."
+  ],
+  "documents": [
+    "Current-year admission proof such as college ID card, admission letter or bonafide certificate",
+    "Previous academic year or semester mark sheets",
+    "Class 10 and Class 12 mark sheets, where applicable",
+    "College fee receipt and official fee structure",
+    "Family income certificate, salary slips or ITR",
+    "Parent's commercial/heavy-vehicle driving licence or Shramik card",
+    "Student's bank passbook or bank account details",
+    "Government-issued identity proof such as Aadhaar Card or PAN Card"
+  ],
+  "applicationSteps": [
+    "Visit the JK Tyre Shiksha Sarthi Scholarship application page on the authorised scholarship platform.",
+    "Register or log in and enter personal, academic, family-income and parent occupation details.",
+    "Provide proof of current admission and the parent's commercial driving occupation.",
+    "Upload the required academic, income, identity, admission and bank documents.",
+    "Review and submit the application before 10 September 2026.",
+    "Complete document verification and any further selection process required by the scholarship provider."
+  ],
+  "tips": [
+    "The parent's heavy-vehicle/commercial driving proof is a key eligibility document, so keep the valid driving licence or accepted occupational proof ready.",
+    "Check that the student's state of residence is one of the five eligible states.",
+    "Keep the latest fee receipt and college bonafide/admission proof available.",
+    "For renewal, maintain the required academic performance throughout the course.",
+    "Apply before 10 September 2026 rather than waiting for the final day because document verification may take additional time."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/jk-tyre-shiksha-sarthi-scholarship-program",
+  "officialSourceUrl": "https://www.buddy4study.com/page/jk-tyre-shiksha-sarthi-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 39,
+  "name": "OakNorth Scholarship and Mentorship Programme",
+  "provider": "OakNorth",
+  "logo": "assets/oaknorth.png",
+  "educationLevel": [
+    "UG",
+    "STEM"
+  ],
+  "location": [
+    "Bihar",
+    "Jharkhand"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "STEM",
+    "First Year",
+    "Government College",
+    "Mentorship"
+  ],
+  "amount": "₹30,000 one-time grant",
+  "deadline": "20 September 2026",
+  "description": "The OakNorth Scholarship and Mentorship Programme is a corporate social responsibility initiative supporting female students from Bihar and Jharkhand who are entering the first year of eligible STEM undergraduate programmes at government colleges or universities. Selected students receive a one-time financial grant along with mentorship support.",
+  "eligibility": [
+    "Applicant must be a female student.",
+    "Applicant must be a resident or domicile of Bihar or Jharkhand.",
+    "Applicant must have completed Class 12 and be enrolled in the first year of an eligible undergraduate STEM programme.",
+    "The eligible field of study must fall within Science, Technology, Engineering or Mathematics.",
+    "Applicant must be enrolled in a government college or university in India, with preference potentially given to institutions located in Bihar or Jharkhand.",
+    "Children of employees of OakNorth or Buddy4Study are not eligible.",
+    "Applicant must satisfy all additional programme-specific conditions announced for the applicable scholarship cycle."
+  ],
+  "documents": [
+    "Aadhaar Card or other government-issued identity proof",
+    "Class 12 mark sheet",
+    "Current-year college admission letter or admission proof",
+    "Government college/university enrollment proof",
+    "Domicile or residence proof for Bihar or Jharkhand",
+    "Student bank account details",
+    "Other documents requested during the application and verification process"
+  ],
+  "applicationSteps": [
+    "Monitor the official OakNorth Scholarship page on Buddy4Study for the opening announcement.",
+    "Register or log in to the authorised application platform when applications open.",
+    "Enter personal, domicile, academic, course and institution details.",
+    "Upload the required identity, academic, admission and domicile documents.",
+    "Review and submit the application within the officially announced application window.",
+    "Complete any verification and mentorship-related selection process if required."
+  ],
+  "tips": [
+    "The 2026-27 application dates have not yet been officially announced, so do not treat a specific deadline as confirmed.",
+    "Keep the Bihar/Jharkhand domicile proof and government-college admission documents ready in advance.",
+    "Confirm that the exact undergraduate programme qualifies as STEM before applying.",
+    "Monitor Buddy4Study for the official opening announcement rather than relying on social-media posts alone.",
+    "The ₹30,000 award is a one-time grant, so it should not be represented as an annual renewable scholarship."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/oaknorth-stem-scholarship-program",
+  "officialSourceUrl": "https://www.buddy4study.com/page/oaknorth-stem-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 40,
+  "name": "Mahindra EmpowerHer Scholarship Program",
+  "provider": "Mahindra & Mahindra Limited",
+  "logo": "assets/mahindra-empowerher.png",
+  "educationLevel": [
+    "Secondary",
+    "Higher Secondary",
+    "UG",
+    "PG"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Girls",
+    "SC",
+    "ST",
+    "OBC",
+    "Merit Based",
+    "Income Based"
+  ],
+  "amount": "₹5,500 one-time financial grant",
+  "deadline": "21 September 2026",
+  "description": "The Mahindra EmpowerHer Scholarship Program provides financial assistance to female students from SC, ST and OBC communities across India. The programme supports students studying in Classes 9 to 12 as well as eligible general undergraduate and postgraduate programmes, with the grant intended to help meet essential educational expenses.",
+  "eligibility": [
+    "Applicant must be a female student and an Indian resident.",
+    "Applicant must belong to the SC, ST or OBC category.",
+    "Applicant must be studying in Classes 9 to 12 or pursuing an eligible general undergraduate programme such as B.A., B.Sc. or B.Com.",
+    "Students pursuing eligible postgraduate programmes such as M.A., M.Sc. or M.Com. may also apply.",
+    "Applicant must have secured at least 50% marks in the previous academic year or semester.",
+    "Total annual family income must not exceed ₹4,00,000.",
+    "Children of employees of Mahindra & Mahindra Limited or Buddy4Study are not eligible."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Government-issued identity proof such as Aadhaar Card or Voter ID",
+    "Valid SC, ST or OBC caste certificate",
+    "Previous academic year or semester mark sheet",
+    "Current-year admission proof such as student ID card, admission letter or fee receipt",
+    "Family income proof such as income certificate, salary slip or ITR",
+    "Student bank passbook or bank account details"
+  ],
+  "applicationSteps": [
+    "Visit the Mahindra EmpowerHer Scholarship application page on the authorised scholarship platform.",
+    "Register or log in and enter personal, category, academic, income and admission details.",
+    "Upload the required identity, caste, academic, income, admission and bank documents.",
+    "Review all information carefully and submit the application before 21 September 2026.",
+    "Complete the verification process if the application is shortlisted."
+  ],
+  "tips": [
+    "Keep a valid SC/ST/OBC certificate ready because category eligibility is mandatory.",
+    "Make sure the income proof clearly establishes that annual family income is within the ₹4 lakh limit.",
+    "Check that the previous academic year or semester marks meet the 50% minimum requirement.",
+    "The ₹5,500 benefit is a financial grant; do not represent it as ₹5,500 per year unless the official programme rules explicitly state that.",
+    "Submit before 21 September 2026 and retain the application details for tracking."
+  ],
+  "officialApplyUrl": "http://buddy4study.com/page/mahindra-empowerher-scholarship-program",
+  "officialSourceUrl": "https://www.buddy4study.com/page/mahindra-empowerher-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 41,
+  "name": "B.S. Abdur Rahman 'India in a Classroom' Scholarship",
+  "provider": "B.S. Abdur Rahman Crescent Institute of Science & Technology",
+  "logo": "assets/bs-abdur-rahman-crescent.png",
+  "educationLevel": [
+    "UG",
+    "Engineering",
+    "Arts",
+    "Science"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "SC",
+    "ST",
+    "Minority",
+    "Income Based",
+    "Engineering",
+    "Undergraduate"
+  ],
+  "amount": "50% to 100% scholarship covering eligible educational expenses",
+  "deadline": "14 September 2026",
+  "description": "The B.S. Abdur Rahman 'India in a Classroom' Scholarship provides financial assistance to eligible undergraduate students admitted to B.S. Abdur Rahman Crescent Institute of Science & Technology in Chennai. The scholarship offers 50% or 100% support based on parental income and can cover eligible tuition fees, hostel accommodation, food/mess and examination fees.",
+  "eligibility": [
+    "Applicant must belong to the Scheduled Caste (SC), Scheduled Tribe (ST) or Muslim community.",
+    "Applicant must have passed Class 12 and satisfy the academic and admission requirements for the selected undergraduate programme at the Chennai campus.",
+    "Annual parental/family income must not exceed ₹5,00,000.",
+    "Applicants with annual income up to ₹2,50,000 may qualify for 100% scholarship support.",
+    "Applicants with annual income between ₹2,50,001 and ₹5,00,000 may qualify for 50% scholarship support.",
+    "Applicant's date of birth must fall between January 2004 and December 2009, subject to the programme's stated age rules.",
+    "Applicant must secure admission to an eligible undergraduate programme at B.S. Abdur Rahman Crescent Institute of Science & Technology."
+  ],
+  "documents": [
+    "Class 12 mark sheet and passing certificate",
+    "SC/ST caste certificate or applicable Muslim community documentation",
+    "Family/parental income certificate",
+    "Date-of-birth proof",
+    "Admission or application proof for the eligible undergraduate programme",
+    "Government-issued identity proof",
+    "Other academic and admission documents required by the institute"
+  ],
+  "applicationSteps": [
+    "Visit the official scholarship application page on Buddy4Study.",
+    "Register or log in and complete the scholarship application with personal, academic, community and family-income details.",
+    "Provide information regarding the eligible undergraduate programme and admission to the Chennai campus.",
+    "Upload the required academic, identity, category and income documents.",
+    "Review the application and submit it before 14 September 2026.",
+    "Complete the institute's admission and verification process if shortlisted."
+  ],
+  "tips": [
+    "This scholarship is tied to admission at B.S. Abdur Rahman Crescent Institute of Science & Technology, so confirm the chosen course and admission requirements first.",
+    "The scholarship percentage depends on parental income, so submit accurate and valid income documentation.",
+    "Check the exact Class 12 subject and percentage requirements for the intended undergraduate programme.",
+    "Keep category and date-of-birth documents ready before applying.",
+    "The scholarship has 200 undergraduate seats according to the provided programme information, so early application is advisable."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/b-s-abdur-rahman-india-in-a-classroom-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/b-s-abdur-rahman-india-in-a-classroom-scholarship",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 42,
+  "name": "Nikon Scholarship Program 2026-27",
+  "provider": "Nikon India Private Limited",
+  "logo": "assets/nikon.png",
+  "educationLevel": [
+    "Professional Course",
+    "Photography"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Photography",
+    "Professional Course",
+    "Income Based"
+  ],
+  "amount": "Up to ₹1,00,000 or actual course fee, whichever is lower",
+  "deadline": "24 August 2026",
+  "description": "The Nikon Scholarship Program provides financial assistance to Indian students pursuing professional photography courses. Eligible students who have completed Class 12 and are enrolled in a qualifying photography-related course can receive support toward their actual course fees.",
+  "eligibility": [
+    "Applicant must be an Indian citizen.",
+    "Applicant must have passed Class 12 from a recognized board.",
+    "Applicant must be enrolled in a professional photography-related course.",
+    "The photography course must have a duration of at least 3 months.",
+    "Annual family income must not exceed ₹6,00,000.",
+    "Applicant must satisfy all course and enrollment requirements specified by the scholarship programme.",
+    "Children of employees of Nikon India and its programme partners are not eligible."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Government-issued identity proof such as Aadhaar Card or Voter ID",
+    "Class 12 mark sheet or passing certificate",
+    "Photography course admission or enrollment proof",
+    "Course fee receipt or student ID card",
+    "Family income proof such as income certificate, salary slip or ITR",
+    "Student bank account details or passbook"
+  ],
+  "applicationSteps": [
+    "Visit the Nikon Scholarship Program application page on Buddy4Study.",
+    "Register or log in and provide personal, academic, course and family-income details.",
+    "Enter details of the professional photography course and current enrollment.",
+    "Upload the required identity, academic, enrollment, income and bank documents.",
+    "Review the application carefully and submit it before 24 August 2026.",
+    "Complete document verification and any further selection process if required."
+  ],
+  "tips": [
+    "Confirm that the photography course has a minimum duration of 3 months before applying.",
+    "Keep the course fee receipt or enrollment proof ready because the scholarship is linked to the actual course fee.",
+    "Ensure the family income document clearly establishes eligibility under the ₹6 lakh limit.",
+    "The maximum benefit is ₹1 lakh; the actual eligible amount can depend on the course fee.",
+    "Submit the application before 24 August 2026 and retain the application/reference details."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/nikon-scholarship-program",
+  "officialSourceUrl": "https://www.buddy4study.com/page/nikon-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 43,
+  "name": "Raman Kant Munjal Scholarships 2026-27",
+  "provider": "Raman Kant Munjal Foundation and Hero FinCorp",
+  "logo": "assets/raman-kant-munjal.png",
+  "educationLevel": [
+    "UG"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Merit Based",
+    "Income Based",
+    "Finance",
+    "First Year"
+  ],
+  "amount": "₹40,000 to ₹5,50,000 per year for up to 3 years",
+  "deadline": "31 August 2026",
+  "description": "The Raman Kant Munjal Scholarships support first-year undergraduate students pursuing selected finance and business-related degree programmes. The scholarship provides substantial financial assistance for up to three years to help cover course fees and other educational expenses.",
+  "eligibility": [
+    "Applicant must be an Indian citizen.",
+    "Applicant must be enrolled in the first year of an eligible undergraduate programme such as BBA, BMS, BFIA, B.Com (Hons./Economics), IPM, B.A. Economics or BBS.",
+    "Applicant must have secured at least 80% marks in both Class 10 and Class 12.",
+    "PwD applicants may be eligible with a minimum of 70% marks, subject to the programme rules.",
+    "Annual family income from all sources must not exceed ₹6,00,000.",
+    "Applicant must be a maximum of 20 years old as of 31 May 2026.",
+    "Children of employees of specified partner organisations are not eligible.",
+    "Applicant must satisfy the admission and course-specific conditions of the scholarship."
+  ],
+  "documents": [
+    "Class 10 marksheet and passing certificate",
+    "Class 12 marksheet and passing certificate",
+    "Current-year college admission proof",
+    "College fee receipt or official fee demand letter",
+    "Family income certificate, ITR or salary slip",
+    "Aadhaar Card of the applicant and parents, where required",
+    "PAN Card of parents, where required",
+    "Recent passport-size photograph",
+    "Student or parent bank account details"
+  ],
+  "applicationSteps": [
+    "Visit the Raman Kant Munjal Scholarships application page on Buddy4Study.",
+    "Register or log in and enter personal, academic, course, age and family-income information.",
+    "Provide details of the current undergraduate admission and eligible course.",
+    "Upload the required academic, admission, income, identity and bank documents.",
+    "Review the application carefully and submit it before 31 August 2026.",
+    "Complete any verification, interview or further selection stages required by the scholarship programme."
+  ],
+  "tips": [
+    "Check the exact list of eligible undergraduate courses before applying because the scholarship is targeted at selected finance and business-related programmes.",
+    "The ₹40,000–₹5,50,000 range is broad; the actual award can depend on the selected course and scholarship assessment.",
+    "Make sure both Class 10 and Class 12 marks meet the applicable threshold.",
+    "Keep parents' income and identity documents ready because financial verification is an important part of the application.",
+    "Check the age condition carefully: the maximum age is assessed as of 31 May 2026.",
+    "Submit before 31 August 2026 and retain the application/reference details."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/raman-kant-munjal-scholarships",
+  "officialSourceUrl": "https://rkmfoundation.org/",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 44,
+  "name": "Ujjivan Small Finance Bank Transgender Scholarship Program 2026-27",
+  "provider": "Ujjivan Small Finance Bank Limited",
+  "logo": "assets/ujjivan-small-finance-bank.png",
+  "educationLevel": [
+    "Secondary",
+    "Higher Secondary",
+    "UG",
+    "PG"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Transgender",
+    "Income Based",
+    "School",
+    "Undergraduate",
+    "Postgraduate"
+  ],
+  "amount": "Up to ₹40,000 one-time grant",
+  "deadline": "30 June 2026",
+  "description": "The Ujjivan Small Finance Bank Transgender Scholarship Program is a CSR initiative supporting transgender students pursuing school and higher education across India. Eligible students from Classes 9 to 12, undergraduate and postgraduate programmes can receive a one-time financial grant of up to ₹40,000 toward eligible educational expenses.",
+  "eligibility": [
+    "Applicant must identify as a transgender student.",
+    "Applicant must be a resident of India.",
+    "Applicant must be studying in Classes 9 to 12, an eligible undergraduate programme or an eligible postgraduate programme.",
+    "Recognized open schools and universities may also be covered under the programme.",
+    "Applicant must have secured at least 35% marks in Class 10 or Class 12, where applicable.",
+    "Annual family or parental income from all sources must not exceed ₹10,00,000.",
+    "Applicant must satisfy any additional course and documentation requirements specified by the programme."
+  ],
+  "documents": [
+    "Government-issued identity proof",
+    "Recent passport-size photograph",
+    "Class 10 or Class 12 marksheet, where applicable",
+    "Current academic admission or enrollment proof",
+    "Fee receipt or other proof of educational expenses",
+    "Family income certificate or other accepted income proof",
+    "Student bank account details",
+    "Other documents required during verification"
+  ],
+  "applicationSteps": [
+    "Visit the Ujjivan Small Finance Bank Transgender Scholarship application page on Buddy4Study.",
+    "Register or log in and provide personal, academic and family-income details.",
+    "Enter current course or school enrollment information.",
+    "Upload the required identity, academic, admission, income and bank documents.",
+    "Review the application and submit it within the announced application window.",
+    "Complete document verification if shortlisted."
+  ],
+  "tips": [
+    "The 2026-27 deadline of 30 June 2026 has already passed, so this entry should be displayed as closed for the current cycle.",
+    "The ₹40,000 benefit is a one-time grant, not an annual renewable amount.",
+    "Keep valid enrollment and income documents ready for future application cycles.",
+    "Check the official Buddy4Study page for the next cycle's opening date and updated eligibility requirements."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/ujjivan-small-finance-bank-transgender-scholarship",
+  "officialSourceUrl": "https://www.buddy4study.com/page/ujjivan-small-finance-bank-transgender-scholarship",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 45,
+  "name": "Eastman PowerUp Eduskill Scholarship Program 2026-27",
+  "provider": "Eastman Auto and Power Limited (EAPL)",
+  "logo": "assets/eastman-powerup-eduskill.png",
+  "educationLevel": [
+    "UG",
+    "PG",
+    "Diploma"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Private",
+  "category": [
+    "Engineering",
+    "Diploma",
+    "Management",
+    "Skill Development",
+    "Income Based"
+  ],
+  "amount": "Up to ₹20,000",
+  "deadline": "31 August 2026",
+  "description": "The Eastman PowerUp Eduskill Scholarship Program supports eligible engineering, diploma and management students through financial assistance and industry-oriented skill development. Selected students can receive up to ₹20,000 by completing approved online training tracks within specified milestones.",
+  "eligibility": [
+    "Applicant must be enrolled in an eligible full-time B.Tech, M.Tech, Polytechnic Diploma, MBA or PGDM programme.",
+    "Eligible B.Tech applicants include specified 3rd/4th-year, lateral-entry or 2026-batch students.",
+    "Eligible M.Tech applicants include specified 2nd-year or 2026-batch students.",
+    "Eligible diploma applicants include specified 3rd-year Polytechnic Diploma students.",
+    "Eligible MBA/PGDM applicants include specified 2nd-year or 2026-batch students in Sales or Marketing.",
+    "Eligible engineering streams include Electrical, Electronics or Mechanical Engineering, depending on the applicable scholarship sub-category.",
+    "Applicant must maintain at least 60% marks or 6.0 CGPA, with the programme requiring consistent academic performance from the specified qualifying classes.",
+    "Annual family income must be below ₹6,00,000.",
+    "Preference may be given to female students, persons with disabilities, students from single-parent families and orphans."
+  ],
+  "documents": [
+    "Recent passport-size photograph",
+    "Government-issued identity proof",
+    "Class 10 and Class 12 mark sheets",
+    "Current academic year or semester mark sheets",
+    "College admission or enrollment proof",
+    "Current fee receipt or bonafide certificate",
+    "Family income certificate or other accepted income proof",
+    "Student bank account details",
+    "Disability or other supporting certificate, where applicable"
+  ],
+  "applicationSteps": [
+    "Visit the Eastman PowerUp Eduskill Scholarship application page on Buddy4Study.",
+    "Register or log in and provide personal, academic, course and family-income details.",
+    "Select the applicable scholarship category based on the course and engineering stream.",
+    "Upload the required academic, admission, income, identity and bank documents.",
+    "Review and submit the scholarship application before 31 August 2026.",
+    "After selection, complete the prescribed online training courses within their respective timelines.",
+    "Receive the staged financial rewards after successfully completing the approved milestones."
+  ],
+  "tips": [
+    "Check the exact scholarship sub-category because eligible engineering streams and academic-year requirements vary.",
+    "The ₹20,000 benefit is not necessarily paid at once; it is distributed according to training completion milestones.",
+    "Track the 15-day, 30-day, 60-day and 90-day course milestones carefully after selection.",
+    "Keep academic records showing the required 60% marks or 6.0 CGPA and valid income documentation ready.",
+    "Priority categories should keep relevant supporting documents available during verification."
+  ],
+  "officialApplyUrl": "https://www.buddy4study.com/page/eastman-powerup-eduskill-scholarship-program",
+  "officialSourceUrl": "https://www.buddy4study.com/page/eastman-powerup-eduskill-scholarship-program",
+  "verifiedAt": "20 August 2026"
+},
+{
+  "id": 46,
+  "name": "Top Class Education Scholarship for SC and OBC/EBC/DNT Students",
+  "provider": "Government of India",
+  "logo": "assets/government-of-india.png",
+  "educationLevel": [
+    "UG",
+    "PG",
+    "Professional Course"
+  ],
+  "location": [
+    "All India"
+  ],
+  "type": "Government",
+  "category": [
+    "SC",
+    "OBC",
+    "EBC",
+    "DNT",
+    "Income Based",
+    "Merit Based",
+    "Premier Institutions"
+  ],
+  "amount": "Tuition fee support plus living, academic and computer/laptop assistance; benefits vary by scheme and student category",
+  "deadline": "31 October 2026",
+  "description": "The Central Sector Top Class Education schemes provide financial assistance to eligible SC students and OBC/EBC/DNT students pursuing higher education in notified premier institutions. Support can include tuition and non-refundable fee coverage, living expenses, academic allowances and computer or laptop assistance, subject to the applicable scheme and income limits.",
+  "eligibility": [
+    "Applicant must belong to the SC category for the Top Class Education for SC Students scheme, or OBC, EBC or DNT category for the PM YASASVI Top Class Education scheme.",
+    "Applicant must be admitted to an eligible notified premier institution and an eligible higher-education programme.",
+    "For the SC scheme, annual family income must generally not exceed ₹8,00,000.",
+    "For the OBC/EBC/DNT PM YASASVI scheme, annual family income must generally not exceed ₹2,50,000.",
+    "Applicant must satisfy the applicable academic and admission requirements of the selected institution and programme.",
+    "Scholarship benefits and fee limits differ between the SC and OBC/EBC/DNT schemes.",
+    "Applicant must provide valid category, income, admission and banking documents for verification."
+  ],
+  "documents": [
+    "Valid SC, OBC, EBC or DNT caste/category certificate, as applicable",
+    "Income certificate issued by a competent authority such as Tehsildar or SDM",
+    "Class 12 or equivalent qualifying examination marksheet",
+    "Admission letter or bonafide certificate from the eligible notified premier institution",
+    "Aadhaar-linked bank account details for Direct Benefit Transfer",
+    "Aadhaar Card or other accepted identity document",
+    "Current academic fee details or fee receipt, where required",
+    "Other documents requested by the National Scholarship Portal or institute during verification"
+  ],
+  "applicationSteps": [
+    "Visit the official National Scholarship Portal.",
+    "Register or log in and select the applicable Top Class Education scheme based on category and eligibility.",
+    "Enter personal, academic, category, income, institution and bank details.",
+    "Upload the required caste/category, income, academic and admission documents.",
+    "Verify the application details carefully and submit the application before 31 October 2026.",
+    "Ensure that the institution completes verification by the applicable institute-verification deadline.",
+    "Track the application status on the National Scholarship Portal."
+  ],
+  "tips": [
+    "Do not treat the SC and OBC/EBC/DNT schemes as identical; their income limits and benefit structures are different.",
+    "Verify that the selected college is included in the notified eligible premier-institution list before applying.",
+    "Keep the latest valid income and category certificates ready because these are central to eligibility verification.",
+    "Use an Aadhaar-linked bank account that is capable of receiving DBT payments.",
+    "Submit early enough to allow time for institute verification before the 15 November 2026 verification deadline."
+  ],
+  "officialApplyUrl": "https://scholarships.gov.in/",
+  "officialSourceUrl": "https://scholarships.gov.in/",
+  "verifiedAt": "20 August 2026"
+}
+
+]
