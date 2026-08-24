@@ -2304,16 +2304,13 @@ button {
         display: none;
     }
 
-    /* Disable view transitions for mobile */
-    .view-section {
-        animation: none !important;
-        transform: none !important;
-        opacity: 1 !important;
-    }
-
-    /* Completely disable text animation on mobile */
+    /* Completely disable continuous text animation on mobile to save battery and reduce lag */
     .gradient-text {
         animation: none !important;
+        background: linear-gradient(135deg, #e0f2fe 0%, #38bdf8 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        filter: none !important;
     }
 
     /* ---- LANDING PAGE COMPACT ---- */
