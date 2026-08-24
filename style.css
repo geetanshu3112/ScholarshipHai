@@ -2304,9 +2304,16 @@ button {
         display: none;
     }
 
-    /* Faster view transitions for mobile */
+    /* Disable view transitions for mobile */
     .view-section {
-        animation: fadeIn 0.1s ease-out forwards;
+        animation: none !important;
+        transform: none !important;
+        opacity: 1 !important;
+    }
+
+    /* Completely disable text animation on mobile */
+    .gradient-text {
+        animation: none !important;
     }
 
     /* ---- LANDING PAGE COMPACT ---- */
