@@ -87,13 +87,13 @@ function initSplashScreen() {
         // Play cinematic intro sound
         playCinematicSound();
 
-        // Auto-hide splash screen after 2.2 seconds (reduced for snappier feel)
+        // Auto-hide splash screen (drastically reduced for instant feel)
         setTimeout(() => {
             splashScreen.classList.add('hide');
             setTimeout(() => {
                 splashScreen.style.display = 'none';
             }, 600);
-        }, 2200);
+        }, 400);
     }
 }
 
