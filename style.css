@@ -1706,16 +1706,6 @@ button {
 @media (max-width: 768px) {
     .grid-container {
         grid-template-columns: minmax(0, 1fr);
-    }
-
-    .card-logo-wrapper {
-        width: 80px;
-        height: 80px;
-        padding: 8px;
-        border-radius: 14px;
-    }
-
-    .card-header {
         gap: 1rem;
     }
 }
@@ -2364,33 +2354,127 @@ button {
     }
 
     .scholarship-card {
-        padding: 1.25rem;
+        padding: 1rem;
         width: 100%;
         max-width: 100%;
         box-sizing: border-box;
+        overflow: hidden;
+    }
+
+    .card-header {
+        gap: 0.75rem;
+        margin-bottom: 0.75rem;
+        padding-top: 28px;
+    }
+
+    .card-logo-wrapper {
+        width: 56px;
+        height: 56px;
+        padding: 6px;
+        border-radius: 12px;
+        flex-shrink: 0;
+    }
+
+    .card-title-area {
+        min-width: 0;
+        flex: 1;
+        overflow: hidden;
     }
 
     .card-title {
-        font-size: 1.1rem;
+        font-size: 0.95rem;
         white-space: normal;
-        word-wrap: break-word;
+        word-break: break-word;
         overflow-wrap: break-word;
+        line-height: 1.25;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
     }
 
     .card-description {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
         white-space: normal;
-        word-wrap: break-word;
+        word-break: break-word;
         overflow-wrap: break-word;
+        -webkit-line-clamp: 2;
+        margin-bottom: 1rem;
     }
 
-    .card-provider, .metric, .card-type, .card-education, .card-category {
-        font-size: 0.85rem;
+    .card-provider {
+        font-size: 0.78rem;
+    }
+
+    .metric {
+        font-size: 0.78rem;
+    }
+
+    .card-type, .card-education, .card-category {
+        font-size: 0.78rem;
+    }
+
+    .card-amount, .card-deadline {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 100%;
+        display: inline-block;
     }
 
     .card-metrics-grid {
-        gap: 0.5rem;
-        padding: 0.75rem;
+        gap: 0.4rem;
+        padding: 0.5rem 0.6rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .metric {
+        gap: 0.35rem;
+        min-width: 0;
+        overflow: hidden;
+    }
+
+    .metric-icon {
+        flex-shrink: 0;
+    }
+
+    .card-badges {
+        gap: 0.35rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .badge {
+        font-size: 0.65rem;
+        padding: 0.25rem 0.6rem;
+    }
+
+    .card-footer {
+        margin-top: auto;
+    }
+
+    .glass-button-secondary {
+        padding: 0.65rem;
+        font-size: 0.85rem;
+    }
+
+    /* Ensure glass-card padding doesn't cause overflow */
+    .glass-card {
+        padding: 1rem;
+        overflow: hidden;
+    }
+
+    /* Results controls should also not overflow */
+    .results-controls {
+        overflow: hidden;
+    }
+
+    .glass-input {
+        font-size: 0.9rem;
+        padding: 0.85rem 1rem 0.85rem 2.8rem;
+    }
+
+    .input-icon {
+        left: 0.85rem;
     }
 
     .details-header {
@@ -2508,27 +2592,46 @@ button {
     }
 
     .card-logo-wrapper {
-        width: 70px;
-        height: 70px;
-        padding: 6px;
-        border-radius: 12px;
+        width: 44px;
+        height: 44px;
+        padding: 5px;
+        border-radius: 10px;
     }
 
     .card-header {
-        gap: 0.8rem;
-        margin-bottom: 1rem;
+        gap: 0.6rem;
+        margin-bottom: 0.6rem;
+        padding-top: 24px;
     }
 
     .card-title {
-        font-size: 1.1rem;
+        font-size: 0.88rem;
     }
 
-    .founder-name {
-        font-size: 1.1rem;
+    .card-provider {
+        font-size: 0.72rem;
     }
 
-    .founder-label {
-        font-size: 0.7rem;
+    .card-metrics-grid {
+        padding: 0.4rem 0.5rem;
+    }
+
+    .metric {
+        font-size: 0.72rem;
+    }
+
+    .badge {
+        font-size: 0.6rem;
+        padding: 0.2rem 0.5rem;
+    }
+
+    .glass-button-secondary {
+        padding: 0.55rem;
+        font-size: 0.8rem;
+    }
+
+    .scholarship-card {
+        padding: 0.75rem;
     }
 }
 
