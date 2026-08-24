@@ -2258,13 +2258,13 @@ button {
     }
 
     .container {
-        padding: 0 1rem;
+        padding: 0 0.85rem;
     }
 
     .glass-nav {
-        top: 0.5rem;
+        top: 0.4rem;
         border-radius: var(--radius-md);
-        padding: 0.75rem 1rem;
+        padding: 0.5rem 0.85rem;
     }
 
     .nav-links {
@@ -2275,33 +2275,87 @@ button {
         display: none;
     }
 
+    /* ---- LANDING PAGE COMPACT ---- */
+    #landing-view {
+        padding-top: 1.25rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .hero-announcement-wrapper {
+        margin-bottom: 0;
+    }
+
+    .hero-announcement {
+        margin-bottom: 1rem;
+        padding: 0.4rem 1rem;
+        font-size: 0.75rem;
+    }
+
     .hero-headline {
-        font-size: clamp(2.5rem, 9vw, 3.5rem);
-        padding: 0 1rem;
+        font-size: clamp(2rem, 8vw, 3rem);
+        padding: 0 0.5rem;
+        margin-bottom: 0.75rem;
     }
 
     .hero-description {
-        padding: 0 1.5rem;
-        font-size: 1.05rem;
-        margin-bottom: 2rem;
+        padding: 0 0.75rem;
+        font-size: 0.92rem;
+        margin-bottom: 1rem;
+        line-height: 1.5;
     }
 
     .hero-search-bar {
-        padding: 0.4rem;
-        padding-left: 1.25rem;
+        padding: 0.35rem;
+        padding-left: 1rem;
+        margin-bottom: 1rem;
     }
 
     .hero-search-bar input {
+        font-size: 0.88rem;
+    }
+
+    .hero-cta {
+        padding: 0.8rem 1.75rem;
         font-size: 0.95rem;
     }
 
     .quick-categories {
         flex-direction: column;
         align-items: stretch;
+        margin-top: 1.5rem;
+        gap: 0.6rem;
     }
 
     .category-card {
         justify-content: flex-start;
+        padding: 0.75rem 1rem;
+        gap: 0.85rem;
+    }
+
+    .cat-icon-wrapper {
+        width: 38px;
+        height: 38px;
+        border-radius: 10px;
+    }
+
+    .cat-icon-wrapper svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .cat-title {
+        font-size: 0.92rem;
+    }
+
+    .cat-subtitle {
+        font-size: 0.7rem;
+    }
+
+    .discovery-strip {
+        margin: 1.25rem auto 1.5rem;
+        padding: 0.5rem 1rem;
+        gap: 0.75rem;
+        font-size: 0.78rem;
     }
 
     .grid-container {
@@ -2477,23 +2531,183 @@ button {
         left: 0.85rem;
     }
 
+    /* ---- DETAILS PAGE MOBILE OPTIMIZATION ---- */
+
+    /* Header: horizontal layout with small logo + title side by side */
     .details-header {
-        flex-direction: column;
+        flex-direction: row;
+        text-align: left;
+        align-items: flex-start;
+        gap: 0.75rem;
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .glass-image-wrapper {
+        width: 52px;
+        height: 52px;
+        border-radius: 12px;
+        padding: 6px;
+        flex-shrink: 0;
+    }
+
+    .details-title-group {
+        flex: 1;
+        min-width: 0;
+    }
+
+    #detail-name {
+        font-size: 1.15rem;
+        line-height: 1.2;
+        margin-bottom: 0.15rem;
+    }
+
+    .provider-text {
+        font-size: 0.8rem;
+    }
+
+    /* Move LIVE badge: show it ABOVE the header as a small inline pill */
+    #detail-live-status {
+        order: -1;
+        width: 100%;
+        margin-left: 0 !important;
+        margin-bottom: 0.25rem;
+    }
+
+    #detail-live-status .card-status-badge {
+        font-size: 0.65rem !important;
+        padding: 3px 10px !important;
+    }
+
+    /* ---- INFO BOXES: Compact pill/button style grid ---- */
+    .details-quick-info.grid-4-cols {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.5rem;
+        margin-bottom: 1.25rem;
+    }
+
+    .info-box {
+        padding: 0.5rem 0.6rem;
         text-align: center;
+        gap: 0.15rem;
+        border-radius: 12px;
+    }
+
+    .info-box:hover {
+        transform: none;
+    }
+
+    .info-label {
+        font-size: 0.6rem;
+        letter-spacing: 0.06em;
+    }
+
+    .info-value {
+        font-size: 0.78rem !important;
+        font-weight: 700;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Make the last info box (Category, 5th item) span full width */
+    .details-quick-info.grid-4-cols .info-box:last-child {
+        grid-column: 1 / -1;
+    }
+
+    /* Details content compact padding */
+    .details-content {
+        padding: 1rem 0.75rem;
+    }
+
+    .details-body {
+        gap: 1.25rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .detail-section h2 {
+        font-size: 1.05rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .detail-section h2::before {
+        width: 4px;
+        height: 18px;
+    }
+
+    .text-content {
+        font-size: 0.9rem;
+        line-height: 1.6;
     }
 
     .details-footer {
         flex-direction: column-reverse;
         text-align: stretch;
+        padding-top: 1.25rem;
+        gap: 1rem;
+    }
+
+    .verification-status {
+        font-size: 0.8rem;
+        text-align: center;
     }
 
     .large-btn {
         width: 100%;
+        padding: 0.85rem 1.5rem;
+        font-size: 1rem;
+    }
+
+    /* Back button compact */
+    #back-to-results {
+        margin-bottom: 0.75rem;
+        font-size: 0.85rem;
+        padding: 0.35rem 0.5rem;
     }
 
     .results-header {
         flex-direction: column;
         align-items: flex-start;
+        gap: 0.5rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .results-header h2 {
+        font-size: 1.5rem;
+    }
+
+    .results-stats {
+        gap: 0.5rem;
+    }
+
+    .glass-badge {
+        font-size: 0.72rem;
+        padding: 0.3rem 0.75rem;
+        gap: 5px;
+    }
+
+    /* Results view tighter spacing */
+    #results-view {
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .results-controls {
+        padding: 0.85rem;
+        margin-bottom: 1rem;
+        gap: 0.75rem;
+    }
+
+    .search-bar {
+        margin-bottom: 0;
+    }
+
+    /* ---- FOOTER COMPACT ---- */
+    .glass-footer {
+        margin-top: 2rem;
+        padding: 1.5rem 0;
     }
 
     .footer-top,
@@ -2501,11 +2715,46 @@ button {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        gap: 0.75rem;
     }
 
+    .footer-divider {
+        margin: 1rem 0;
+    }
+
+    .footer-title {
+        font-size: 1.1rem;
+    }
+
+    .footer-tagline {
+        font-size: 0.8rem;
+    }
+
+    .btn-footer-link {
+        font-size: 0.82rem;
+        padding: 0.3rem;
+    }
+
+    .founder-label-small {
+        font-size: 0.65rem;
+    }
+
+    .founder-name-small {
+        font-size: 0.88rem;
+    }
+
+    .founder-email-small {
+        font-size: 0.78rem;
+    }
+
+    .footer-copyright p {
+        font-size: 0.72rem;
+    }
+
+    /* ---- FOUNDER SECTION COMPACT ---- */
     .founder-stats {
         flex-wrap: wrap;
-        gap: 1.5rem;
+        gap: 1rem;
         justify-content: center;
     }
 
@@ -2513,25 +2762,70 @@ button {
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding: 1.5rem;
-        gap: 2rem;
+        padding: 1.25rem;
+        gap: 1rem;
+        border-radius: 20px;
     }
 
     .founder-info-area {
         flex-direction: column;
         align-items: center;
-        gap: 1rem;
+        gap: 0.75rem;
         min-width: auto;
         width: 100%;
     }
 
     .gr-profile-image {
-        width: 150px;
-        height: 150px;
+        width: 110px;
+        height: 110px;
+        border-width: 3px;
     }
 
     .founder-details {
         text-align: center;
+    }
+
+    .founder-label {
+        font-size: 0.7rem;
+        margin-bottom: 0.25rem;
+        letter-spacing: 0.1em;
+    }
+
+    .founder-name {
+        font-size: 1.15rem;
+        margin-bottom: 0.2rem;
+    }
+
+    .founder-bio {
+        font-size: 0.85rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .glowing-social-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+        gap: 0.4rem;
+    }
+
+    .glowing-social-btn svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .social-buttons-container {
+        gap: 0.6rem;
+    }
+
+    .stat-box {
+        gap: 0.2rem;
+    }
+
+    .stat-value {
+        font-size: 1.1rem;
+    }
+
+    .stat-label {
+        font-size: 0.68rem;
     }
 
     .stat-divider {
@@ -2545,6 +2839,39 @@ button {
 
     .hero-announcement-wrapper {
         justify-content: center;
+    }
+
+    /* ---- ABOUT / PRIVACY / TERMS PAGES COMPACT ---- */
+    #about-view,
+    #privacy-view,
+    #terms-view {
+        padding-top: 0.75rem;
+        padding-bottom: 1.5rem;
+    }
+
+    #about-view .details-content,
+    #privacy-view .details-content,
+    #terms-view .details-content {
+        padding: 1rem 0.85rem;
+    }
+
+    .page-title {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    #back-from-about,
+    #back-from-privacy,
+    #back-from-terms {
+        margin-bottom: 0.5rem;
+        font-size: 0.82rem;
+        padding: 0.3rem 0.5rem;
+    }
+
+    /* ---- DETAILS PAGE COMPACT ---- */
+    #details-view {
+        padding-top: 0.75rem;
+        padding-bottom: 2rem;
     }
 }
 
