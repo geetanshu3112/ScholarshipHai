@@ -2304,6 +2304,11 @@ button {
         display: none;
     }
 
+    /* Faster view transitions for mobile */
+    .view-section {
+        animation: fadeIn 0.1s ease-out forwards;
+    }
+
     /* ---- LANDING PAGE COMPACT ---- */
     #landing-view {
         padding-top: 1.25rem;
