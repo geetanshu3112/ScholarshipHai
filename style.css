@@ -2253,6 +2253,35 @@ button {
 }
 
 @media (max-width: 768px) {
+    /* ---- PERFORMANCE OPTIMIZATIONS ---- */
+    :root {
+        /* Reduce blur and saturate for much smoother rendering */
+        --glass-blur-sm: blur(2px);
+        --glass-blur-md: blur(4px);
+        --glass-blur-lg: blur(6px);
+        
+        /* Increase opacity since blur is reduced */
+        --glass-bg: rgba(20, 30, 60, 0.85);
+        --glass-bg-strong: rgba(15, 25, 50, 0.95);
+        --glass-bg-subtle: rgba(20, 30, 60, 0.75);
+        --glass-bg-hover: rgba(30, 45, 80, 0.9);
+        
+        /* Remove or simplify heavy shadows */
+        --glass-shadow-sm: none;
+        --glass-shadow-md: 0 2px 8px rgba(0,0,0,0.3);
+        --glass-shadow-lg: 0 4px 12px rgba(0,0,0,0.4);
+        --glass-shadow-hover: none;
+        --glass-inner-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+
+    /* Disable heavy background orb animations */
+    .liquid-orb {
+        animation: none !important;
+        mix-blend-mode: normal !important;
+        opacity: 0.2 !important;
+        will-change: auto !important;
+    }
+
     html {
         font-size: 14.5px;
     }
@@ -2283,6 +2312,10 @@ button {
 
     .hero-announcement-wrapper {
         margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
     }
 
     .hero-announcement {
@@ -2837,9 +2870,7 @@ button {
         display: none !important;
     }
 
-    .hero-announcement-wrapper {
-        justify-content: center;
-    }
+
 
     /* ---- ABOUT / PRIVACY / TERMS PAGES COMPACT ---- */
     #about-view,
